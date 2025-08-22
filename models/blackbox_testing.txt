@@ -1,0 +1,33 @@
+<id>
+black box testing
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Black box testing evaluates a system solely by its inputs and outputs, ignoring its internal structure or code. The tester treats the system as an opaque "black box," focusing on what it does rather than how it works.
+</define>
+
+<example>
+Software QA (User Interface Testing)
+How: Testers input data (e.g., login credentials) and check if outputs match expectations (e.g., successful login).
+Why: Ensures the app behaves correctly for users, even if code changes internally.
+</example>
+
+<example>
+Medical Diagnostics (Symptom-Based Diagnosis)
+How: Doctors diagnose diseases based on symptoms (inputs) and test results (outputs) without needing to see cellular-level processes.
+Why: Speeds up treatment; not all hospitals have MRI labs.
+</example>
+
+<example>
+Hardware Testing (Vending Machines)
+How: Insert money (input), select a product, and verify the item dispenses (output). No need to inspect circuit boards.
+Why: Confirms functionality for consumers, regardless of internal mechanics.
+</example>

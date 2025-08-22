@@ -1,0 +1,35 @@
+<id>
+randomness
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Randomness describes events or processes that lack a predictable pattern or deterministic cause. In math and science, randomness isn't "arbitrary"—it follows probabilistic rules but resists precise forecasting for individual outcomes.
+</define>
+
+<example>
+Problem: Does a new drug work?
+Randomness Insight: Randomly assign patients to control/treatment groups to eliminate bias.
+Decision Impact: Ensures results reflect true efficacy, not confounding variables.
+</example>
+
+<example>
+Counterintuitive Aspects of Randomness
+Gamble's Fallacy: Mistaking independence for "balancing" (e.g., "Red is due!" in roulette).
+Clustering Illusion: Seeing patterns in random data (e.g., "hot streaks" in sports).
+Benford's Law: Non-uniform digit distributions in real-world data (e.g., tax fraud detection).
+</example>
+
+<example>
+Tools to Harness Randomness
+Random Sampling: Polls, clinical trials.
+Monte Carlo Simulations: Modeling complex risks (e.g., retirement planning).
+A/B Testing: Randomly exposing users to website variants.
+</example>

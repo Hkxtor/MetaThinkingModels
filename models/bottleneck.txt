@@ -1,0 +1,36 @@
+<id>
+bottleneck
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A bottleneck is a point of constraint or limitation in a system where the flow of progress—whether it's resources, time, or output—gets slowed or blocked.
+</define>
+
+<example>
+Field: Work/Productivity
+Scenario: You're juggling a project, but constant email checks stall your deep work—tasks pile up.
+Bottleneck at Work: The bottleneck isn't your workload; it's the distraction habit. You're stuck at 50% output because focus gets choked.
+Using It: Identify the choke point—track time to see what's eating your hours. Decide to batch emails (once an hour) or mute notifications. It frees the flow, boosting finished tasks from 2 to 5 a day.
+</example>
+
+<example>
+Field: Health/Fitness
+Scenario: You aim to get fit, but poor sleep leaves you too tired to exercise consistently.
+Bottleneck at Work: Sleep's the bottleneck—not motivation or gym access. Without 7-8 hours, energy stalls, and workouts fizzle.
+Using It: Find the root block—log sleep (phone app) and spot patterns. Decide to fix it (no screens post-9 PM) before adding push-ups. It unlocks stamina for a 3-day workout streak.
+</example>
+
+<example>
+Field: Engineering
+Scenario: A car factory produces 100 vehicles a day. The assembly line has stations for frame welding (200 units/day capacity), engine installation (150 units/day), and painting (80 units/day). Orders are piling up, but output stalls.
+Bottleneck at Work: The painting station is the bottleneck—it caps production at 80 cars/day, even though welding and engines could handle more. Excess frames and engines stack up, waiting for paint, while workers downstream (e.g., upholstery) twiddle thumbs.
+Impact: The system's throughput is stuck at the slowest step—80 units—wasting potential from faster stations.
+</example>

@@ -1,0 +1,46 @@
+<id>
+agile
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Agile is an iterative, flexible approach to project management and product development that emphasizes collaboration, customer feedback, and incremental progress.
+Key Agile Principles:
+Iterative Progress – Work is done in small cycles (sprints/iterations).
+Adaptability – Responding to change over following a fixed plan.
+Continuous Improvement – Regular retrospectives to refine processes.
+</define>
+
+<example>
+Software Development (Original Use Case)
+Example: A team at Spotify uses Agile (specifically Scrum & Kanban) to release frequent updates.
+Work is split into 2-week sprints.
+Daily stand-up meetings track progress.
+Features are tested early with users, reducing wasted effort.
+</example>
+
+<example>
+Manufacturing (Lean-Agile Hybrid)
+Example: Tesla's production line applies Agile principles.
+Rapid prototyping of car components.
+Continuous feedback from engineers and drivers.
+Adjustments made in real-time (e.g., over-the-air software updates).
+</example>
+
+<example>
+Finance (Agile Budgeting & Startups)
+Example: Fintech startups like Revolut use Agile for product launches.
+Instead of a 5-year plan, they release minimum viable products (MVPs).
+User feedback drives new features (e.g., cryptocurrency trading).
+Risk is minimized by testing ideas in small markets first.
+</example>
+
+
+

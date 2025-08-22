@@ -1,0 +1,37 @@
+<id>
+feedback loops
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Feedback loops are systems where outputs circle back as inputs, amplifying or stabilizing a process.
+- Positive Feedback Loops: Self-reinforcing. Output amplifies the effect (e.g., viral growth, climate tipping points).
+- Negative Feedback Loops: Self-correcting. Output dampens the effect (e.g., thermostats, body temperature regulation).
+</define>
+
+<example>
+Social Media (Algorithmic Virality)
+Positive Feedback: A post gets likes - algorithm shows it to more people - more likes.
+Example: TikTok trends explode when engagement triggers exponential visibility.
+Decision Impact: Content creators optimize for early engagement to "ride the loop."
+</example>
+
+<example>
+Climate Change (Tipping Points)
+Positive Feedback: Arctic ice melts - less sunlight reflected - more warming - more melting.
+Decision Impact: Reduce emissions before loops become irreversible.
+</example>
+
+<example>
+Business (Customer Reviews)
+Positive Feedback: Good reviews - more sales - more reviews - higher rankings.
+Negative Feedback: Bad reviews - fewer sales - company improves product.
+Decision Impact: Prioritize customer service to sustain virtuous cycles.
+</example>

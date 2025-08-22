@@ -1,0 +1,41 @@
+<id>
+five whys
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The 5 Whys is a simple yet effective problem-solving method that involves asking "Why?" five times (or as many as needed) to drill down to the root cause of an issue. 
+It's a form of iterative questioning that peels back layers of symptoms to uncover the underlying problem.
+</define>
+
+<example>
+Manufacturing
+Problem: A machine on the assembly line keeps jamming.
+Why 1: Why does the machine jam? Because it's overloaded with parts.
+Why 2: Why is it overloaded? Because the feeder system is misaligned.
+Why 3: Why is the feeder misaligned? Because it wasn't calibrated recently.
+Why 4: Why wasn’t it calibrated? Because maintenance schedules were ignored.
+Why 5: Why were they ignored? Because there's no clear accountability for upkeep.
+Root Cause: Lack of accountability for maintenance.
+Solution: Assign clear roles and enforce regular checks, fixing the process, not just the jam.
+</example>
+
+<example>
+Software Development
+Problem: A website crashes during peak traffic.
+Why 1: Why did it crash? Because the server ran out of memory.
+Why 2: Why no memory? Because too many users accessed it at once.
+Why 3: Why so many at once? Because a new feature launch wasn't stress-tested.
+Why 4: Why not tested? Because testing was skipped to meet a deadline.
+Why 5: Why skipped? Because project timelines prioritized speed over stability.
+Root Cause: Flawed prioritization in project management.
+Solution: Mandate load testing and adjust timelines for quality assurance.
+</example>
+

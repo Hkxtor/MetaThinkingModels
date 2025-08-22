@@ -1,0 +1,34 @@
+<id>
+hindsight bias
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Hindsight bias is the tendency to see past events as more predictable or obvious than they actually were at the time—often summed up as "I knew it all along." 
+Once an outcome is known, our brains rewire the story, downplaying the uncertainty or complexity of the moment and making it feel inevitable.
+</define>
+
+<example>
+Field: Investing/Finance
+Scenario: A stock crashes, and you think, "I knew it was overvalued—those P/E ratios were insane." But before the drop, you were tempted to buy.
+Using It: Record your predictions pre-decision—write down why you're buying or skipping a stock, with pros and cons. Later, compare to outcomes without rewriting history. It curbs overconfidence and tunes your gut for next time.
+</example>
+
+<example>
+Field:Medicine
+Scenario: A doctor misses a rare diagnosis, and colleagues later say, "It was so obvious—those symptoms screamed cancer." But the initial data was vague.
+Using It: Simulate real-time thinking—review old cases as if the answer's unknown, listing all possibilities. For decisions like screening tests, assume uncertainty's the norm, not clarity. It pushes you to question more and test broader hypotheses.
+</example>
+
+<example>
+Field: Sports/Coaching
+Scenario: A team loses, and fans groan, "I knew that play call was dumb—running on third-and-long never works." But they cheered it live.
+Using It: Analyze past games with "what if" scenarios—would you have called it differently without knowing the score? For future bets, lean on data (play success rates) over gut, since memory exaggerates your foresight.
+</example>

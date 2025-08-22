@@ -1,0 +1,36 @@
+<id>
+moral hazard
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Moral hazard is a concept in economics and behavioral theory where one party takes risks or behaves recklessly because they are insulated from the consequences, often due to another party bearing the cost.
+</define>
+
+<example>
+Insurance
+Scenario: Car insurance and reckless driving.
+How It Plays Out: A driver with comprehensive car insurance might drive more carelessly—speeding or neglecting maintenance—knowing repairs or replacements are covered. Without insurance, they'd be more cautious to avoid repair costs.
+Why: The insurer bears the financial burden, reducing the driver's incentive to minimize risk. Insurers counter this with deductibles or premium hikes to align interests.
+</example>
+
+<example>
+Finance
+Scenario: Bank bailouts during a financial crisis.
+How It Plays Out: Large banks take excessive risks (e.g., subprime lending) because they expect government bailouts if they fail, as seen in the 2008 crisis. Known as "too big to fail," this belief shields them from collapse.
+Why: Taxpayers or regulators absorb the losses, not the bank executives or shareholders, encouraging speculative behavior over prudent management.
+</example>
+
+<example>
+Healthcare
+Scenario: Overuse of medical services with full coverage.
+How It Plays Out: A patient with comprehensive health insurance might demand unnecessary tests or treatments (e.g., extra scans) because they don't pay out-of-pocket. Doctors, paid per service, might comply.
+Why: The insurer foots the bill, so neither patient nor provider feels the cost, inflating healthcare expenses.
+</example>

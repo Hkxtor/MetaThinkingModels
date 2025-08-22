@@ -1,0 +1,35 @@
+<id>
+zero sum game
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Zero-Sum Game: A situation where one party's gain is exactly balanced by another's loss. The total benefit or loss is always zero.
+Example: Poker (your winnings come directly from others' losses).
+Non-Zero-Sum Game: A scenario where cooperation or competition can lead to mutual gain or loss. The total outcome isn't fixed—everyone can win or lose together.
+Example: Trade (both parties benefit from exchanging goods/services).
+</define>
+
+<example>
+Workplace Salaries
+Misconception: "If my coworker gets a raise, there's less money left for me."
+Reality (Non-Zero-Sum): A thriving company can reward multiple employees without reducing others' pay. 
+High morale and productivity may even expand the budget.
+How to Avoid: Advocate for team performance bonuses or profit-sharing models.
+</example>
+
+<example>
+International Trade
+Misconception: "If China exports more to the U.S., America 'loses' jobs and money."
+Reality (Non-Zero-Sum): Trade lets countries specialize, lowering costs and increasing overall wealth (e.g., cheaper goods for U.S. consumers, jobs in Chinese factories).
+How to Avoid: Focus on comparative advantage and long-term economic growth, not protectionism.
+</example>
+
+

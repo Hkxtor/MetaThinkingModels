@@ -1,0 +1,41 @@
+<id>
+Maslow's Hierarchy of Needs
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+This theory organizes human motivations into a five-tier pyramid, where lower-level needs must be satisfied before higher ones become priorities. The tiers are:
+Physiological Needs (food, water, shelter)
+Safety Needs (security, stability, health)
+Love/Belonging (relationships, community)
+Esteem (respect, achievement, confidence)
+Self-Actualization (fulfilling potential, creativity, purpose)
+</define>
+
+<example>
+Workplace Motivation (Business/HR)
+Physiological: Fair wages allow employees to afford basics like food and rent.
+Safety: Job security and health insurance reduce anxiety.
+Belonging: Team-building activities foster camaraderie.
+Esteem: Promotions and public recognition boost confidence.
+Self-Actualization: Creative projects or leadership roles align with personal growth.
+Why It Matters: Companies like Google prioritize employee well-being (free meals, flexible work) to unlock higher productivity and innovation.
+</example>
+
+<example>
+Education (Student Development)
+Physiological: School lunch programs ensure kids aren't hungry in class.
+Safety: Anti-bullying policies create a secure learning environment.
+Belonging: Group projects and clubs help students form friendships.
+Esteem: Awards or teacher praise motivate academic effort.
+Self-Actualization: Advanced courses or arts programs nurture passions.
+Why It Matters: Struggling students often can't focus on learning until basic needs are met (e.g., homeless students).
+</example>
+

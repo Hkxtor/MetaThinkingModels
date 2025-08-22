@@ -1,0 +1,35 @@
+<id>
+shortest processing time/SPT
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+SPT is a scheduling strategy that prioritize tasks by their duration, starting with the quickest, then the next quickest, etc.
+Optimizing For: Minimizing the average completion time (or mean flow time), which is the average time tasks spend in the system from start to finish. Equivalently, it minimizes the total waiting time of all tasks.
+Why It Works: Knocking out short tasks fast clears the queue, reducing the time later tasks spend waiting. It's optimal for this criterion in single-machine settings, per a classic result in scheduling theory (Smith's Rule).
+Caveat: It ignores deadlines. A long, urgent task might get pushed back, causing big delays if due dates matter.
+</define>
+
+<example>
+Customer Service (Retail/Support)
+Scenario: A help desk agent has three customer inquiries: a 5-minute password reset, a 20-minute billing dispute, and a 1-hour software troubleshooting session. Customers are waiting in a queue, and the agent can only handle one at a time.
+SPT Application: Start with the 5-minute password reset, then the 20-minute billing issue, and finish with the 1-hour troubleshooting. This clears the queue faster for most customers.
+Outcome: The average time customers wait drops—two get quick resolutions, and the third isn't delayed much longer than necessary, boosting overall satisfaction.
+</example>
+
+<example>
+Manufacturing (Production Line)
+Scenario: A worker on an assembly line has three parts to process: a 2-minute widget polish, a 10-minute gear assembly, and a 30-minute frame weld. The line processes one item at a time, and the goal is to keep parts flowing smoothly.
+SPT Application: Polish the widget first (2 minutes), assemble the gear next (10 minutes), and weld the frame last (30 minutes). This clears items quickly.
+Outcome: The average time parts spend in the system drops—most move through fast, reducing pile-up, even if the frame takes longer overall.
+</example>
+
+
+

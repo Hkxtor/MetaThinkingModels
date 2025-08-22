@@ -1,0 +1,50 @@
+<id>
+system1 and system2 thinking
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+From Daniel Kahneman's Thinking, Fast and Slow
+System 1 (Fast Thinking):
+Automatic, intuitive, and effortless (e.g., recognizing faces, understanding sarcasm).
+Pros: Quick, energy-efficient.
+Cons: Prone to biases (e.g., stereotypes, snap judgments).
+System 2 (Slow Thinking):
+Effortful, logical, and deliberate (e.g., solving math problems, choosing a mortgage).
+Pros: Accurate, analytical.
+Cons: Slow, mentally taxing.
+</define>
+
+<example>
+Medicine: Diagnosing Patients
+System 1 (When to use):
+A doctor spots classic symptoms of the flu (fever, fatigue) and makes a quick diagnosis.
+System 2 (When to switch):
+If symptoms are ambiguous (e.g., chest pain could be indigestion or a heart attack), slow down and run tests.
+Key Insight: Experts use System 1 for pattern recognition but know when to engage System 2 for complex cases.
+</example>
+
+<example>
+Investing: Financial Decisions
+System 1 (Pitfall):
+Buying a trending stock because it "feels right" (recency bias).
+System 2 (Solution):
+Analyzing the company's fundamentals (P/E ratio, cash flow) before investing.
+Pro Tip: Automate good habits (e.g., dollar-cost averaging) to avoid emotional System 1 traps.
+</example>
+
+<example>
+Marketing: Designing Ads
+System 1 (Hook):
+Using bold colors, celebrity endorsements, or fear appeals ("Last chance!") to trigger quick emotional responses.
+System 2 (Justify):
+Adding data ("Clinically proven") for skeptical customers who deliberate.
+Rule: Appeal to System 1 first, then back it up with System 2 logic.
+</example>

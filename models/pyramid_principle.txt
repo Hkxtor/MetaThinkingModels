@@ -1,0 +1,59 @@
+<id>
+pyramid principle
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Pyramid Principle is a communication and problem-solving framework to structure ideas and present them clearly, persuasively, and efficiently. The principle emphasizes starting with the main point or conclusion (the "governing thought") and then supporting it with logically grouped arguments and data, organized in a hierarchical, pyramid-like structure.
+Key Components:
+Top-Down Structure: Begin with the main conclusion or recommendation (the top of the pyramid), followed by key supporting arguments, which are further backed by data or evidence.
+Answer First: Address the audience's primary question or concern upfront, rather than building up to the conclusion.
+Grouped Arguments: Organize supporting points into logical, mutually exclusive groups (often using MECE principles) to avoid redundancy and ensure clarity.
+Storytelling Flow: Present ideas in a narrative that guides the audience from the main point to the details, making it easy to follow.
+</define>
+
+<example>
+Context: A McKinsey team was hired by a national retail chain to address declining profits and recommend a turnaround strategy.
+Pyramid Principle Application: The team presented their findings to the client's board using the Pyramid Principle.  
+Governing Thought: The retail chain should focus on e-commerce and store optimization to restore profitability.  
+Key Arguments:  
+E-commerce is critical to capturing younger customers.  
+Underperforming stores are dragging down profits.  
+Operational efficiencies can reduce costs.
+
+Supporting Evidence:  
+E-commerce: Online sales grew 25% industry-wide last year; 60% of the chain's target demographic shops online.  
+Store Optimization: 20% of stores account for 80% of losses; closing 50 underperforming locations could save $50M annually.  
+
+Operational Efficiencies: Supply chain analysis shows 15% cost savings through vendor consolidation.
+Outcome: By presenting the recommendation first and supporting it with clear, grouped arguments, the board quickly grasped the strategy and approved a $100M investment in e-commerce and store closures. The Pyramid Principle ensured the complex analysis was digestible and persuasive, aligning with the board's need for actionable insights.
+</example>
+
+<example>
+Context: A public hospital prepared a policy brief to convince government officials to fund a new telehealth program during a healthcare funding review.
+Pyramid Principle Application: The hospital's leadership team structured the brief using the Pyramid Principle to make a compelling case.  
+Governing Thought: The government should fund a $10M telehealth program to improve rural healthcare access.  
+
+Key Arguments:  
+Telehealth addresses rural patient access challenges.  
+It reduces strain on hospital resources.  
+It aligns with national healthcare modernization goals.
+
+Supporting Evidence:  
+Access: 30% of rural patients miss appointments due to travel barriers; telehealth pilots increased appointment compliance by 40%.  
+Resource Strain: Emergency room visits dropped 15% in areas with telehealth; this could save $5M annually in hospital costs.  
+Modernization: National health policy prioritizes digital solutions; telehealth adoption is a key performance indicator for funding.
+Outcome: The clear, conclusion-first structure of the brief resonated with time-constrained officials, who approved the funding. The Pyramid Principle helped distill complex healthcare data into a concise, persuasive narrative that aligned with policy priorities.
+</example>
+
+
+
+
+

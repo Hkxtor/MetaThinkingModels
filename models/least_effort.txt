@@ -1,0 +1,30 @@
+<id>
+The Principle of Least Effort
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+This principle states that individuals, animals, and even systems tend to choose the path of minimal energy expenditure to achieve a goal. It's a universal behavior pattern observed in biology, economics, technology, and social systems.
+</define>
+
+<example>
+Human Behavior (Psychology & UX Design)
+Example: People scroll endlessly on social media instead of searching for specific content because scrolling requires less cognitive effort.
+Why? The brain defaults to passive consumption over active effort.
+Impact: Apps like TikTok and Instagram optimize for infinite scroll to exploit this tendency.
+</example>
+
+<example>
+Biology (Animal Foraging & Evolution)
+Example: Lions hunt weaker prey (e.g., young or injured animals) rather than healthy adults to minimize energy spent per calorie gained.
+Why? Natural selection favors energy-efficient survival strategies.
+Impact: Ecosystems balance around predators optimizing effort vs. reward.
+</example>
+

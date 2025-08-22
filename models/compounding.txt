@@ -1,0 +1,53 @@
+<id>
+compounding
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Compounding is the process where a quantity grows at an accelerating rate because its growth is repeatedly multiplied by itself over time, rather than added linearly.
+</define>
+
+<sub>
+Discrete-Time (e.g., stock prices daily).
+</sub>
+
+<sub>
+Continuous-Time (e.g., temperature fluctuations).
+</sub>
+
+<sub>
+Markov Processes (future depends only on the present, not the past).
+</sub>
+
+<sub>
+Brownian Motion (random particle movement).
+</sub>
+
+<example>
+Field: Finance (Wealth Building)
+Mechanism: Reinvesting interest/dividends generates earnings on prior earnings.
+Example: Invest $10,000 at 7% annual return. After 30 years: $73,000.
+Decision Impact: Start investing early—time magnifies small differences.
+</example>
+
+<example>
+Field: Technology (Moore's Law)
+Mechanism: Computing power doubles every ~2 years (exponential growth in transistors/chip).
+Example: A $1,000 laptop today outperforms a 1980s supercomputer.
+Decision Impact: Industries bet on continued exponential progress (e.g., AI, quantum computing).
+</example>
+
+<example>
+Field: Health
+Mechanism: Small daily habits compound into drastic long-term results.
+Example:
+Good: Walking 30 mins/day → 10% lower heart disease risk/year → 92% lower risk over 30 years (simplified model).
+Bad: Smoking 1 cigarette/day → 50% higher lung cancer risk over 20 years.
+</example>

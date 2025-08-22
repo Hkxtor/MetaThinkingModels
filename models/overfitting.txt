@@ -1,0 +1,36 @@
+<id>
+overfitting
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Overfitting is a concept from statistics and machine learning where a model learns not just the underlying patterns in a dataset, but also the noise or random fluctuations specific to that data. 
+In technical terms, overfitting occurs when a model has too much complexity (e.g., too many parameters) relative to the amount of data, leading to low bias but high variance. The result: it doesn't generalize well.
+</define>
+
+<example>
+Career Planning: 
+If you overfit your career to a single job's quirks—say, mastering only one company's software—you might struggle when switching roles. 
+Avoid this by building transferable skills (simpler model), like problem-solving or communication, and exposing yourself to varied experiences (more data). 
+Don't over-optimize for one boss's preferences; aim for broader competence.
+</example>
+
+<example>
+Investing: 
+An investor might overfit by crafting a strategy that perfectly matches last year's market (e.g., heavy on tech stocks after a boom), only to crash when trends shift. 
+To counter this, diversify your portfolio (regularization), test strategies across different market conditions (cross-validation), and stick to fundamental principles like risk management rather than chasing every past spike.
+</example>
+
+<example>
+Education (Teaching): 
+A teacher might overfit by drilling students on exact test questions from last year, leaving them unprepared for new material. 
+Instead, focus on core concepts (simpler model), use varied examples (more data), and assess understanding with fresh problems (cross-validation) to ensure they grasp the subject, not just the test.
+</example>
+

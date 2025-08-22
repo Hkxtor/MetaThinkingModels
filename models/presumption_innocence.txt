@@ -1,0 +1,39 @@
+<id>
+Presumption of Innocence
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A legal principle stating that a person is considered innocent until proven guilty in a court of law. It places the burden of proof on the accuser (e.g., prosecutors) and ensures fair treatment by:
+Prohibiting premature punishment.
+Requiring evidence beyond reasonable doubt.
+Protecting against biased assumptions.
+</define>
+
+<example>
+Criminal Justice (Legal Trials)
+Example: A defendant accused of theft cannot be jailed before trial unless evidence justifies detention.
+Violation: Media labeling suspects as "criminals" before verdicts.
+Impact: Ensures wrongful arrests don't ruin lives prematurely.
+</example>
+
+<example>
+Academia (Plagiarism Cases)
+Example: A student flagged for plagiarism gets a hearing to present their side before penalties are applied.
+Violation: Professors failing grades based solely on algorithmic plagiarism detectors.
+Impact: Protects students from erroneous academic penalties.
+</example>
+
+<example>
+Social Media (Online "Canceling")
+Example: A celebrity accused of misconduct isn't banned from platforms until verified evidence emerges.
+Violation: Immediate deplatforming based on viral allegations (e.g., 2020 "cancel culture" trends).
+Impact: Reduces mob justice and reputational harm.
+</example>

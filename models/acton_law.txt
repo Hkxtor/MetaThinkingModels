@@ -1,0 +1,29 @@
+<id>
+Acton's law
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The more power someone has, the greater the risk of corruption - whether moral, ethical, or political.
+"Power tends to corrupt, and absolute power corrupts absolutely."
+Acton's Law explains why checks and balances (e.g., democracy's separation of powers, corporate governance, whistleblower protections) are crucial.
+</define>
+
+<example>
+Political Power & Dictatorships
+Example: Many authoritarian leaders (e.g., Kim Jong-un in North Korea, Robert Mugabe in Zimbabwe) started with promises of reform but became increasingly oppressive as they consolidated power.
+Why? Without checks (free press, independent judiciary, term limits), leaders act without accountability, leading to human rights abuses and economic mismanagement.
+</example>
+
+<example>
+Corporate Corruption
+Example: CEOs of large corporations (e.g., Enron's Jeffrey Skilling, FTX's Sam Bankman-Fried) engaged in fraud when given unchecked authority.
+Why? Lack of oversight (weak boards, lax regulations) allowed them to manipulate systems for personal gain until collapse.
+</example>

@@ -1,0 +1,29 @@
+<id>
+prisoner's dilemma
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Prisoner's Dilemma is a game theory scenario that illustrates how rational individuals might choose self-interest over cooperation, even when working together would yield a better collective outcome.
+</define>
+
+<example>
+Business/Negotiation
+Scenario: Two rival firms can cut prices to grab market share or keep prices steady. If both cut, profits tank (both lose). If one cuts and the other doesn't, the cutter wins big (sales surge, other flops). If both hold steady, they split decent profits.
+Dilemma at Work: Fear of losing out drives both to slash prices, hurting both more than if they'd tacitly cooperated. Think gas station price wars.
+Using It: Assess trust—can you signal cooperation? For decisions like undercutting, weigh short-term gain against long-term pain. Build alliances or norms (trade groups) to tilt toward mutual benefit.
+</example>
+
+<example>
+Environment/Sustainability
+Scenario: Two neighbors can conserve water during a drought or over-use. If both conserve, the supply holds (all good). If one conserves and the other doesn't, the conserver suffers (dry lawn), over-user thrives. If both over-use, the well runs dry (both lose).
+Dilemma at Work: Selfishness (over-watering) screws everyone when cooperation (cutting back) would've saved the day. It's climate change in miniature.
+Using It: Look at the bigger game—your choice (recycle, cut emissions) matters if others might follow. Decide to lead by example or push collective rules (HOA water limits). It's about betting on shared wins over solo grabs.
+</example>

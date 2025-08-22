@@ -1,0 +1,37 @@
+<id>
+The Ringelmann Effect
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A psychological phenomenon where individuals exert less effort in a group than when working alone, leading to declining group productivity as size increases.
+In groups, individual accountability decreases, causing: Free-riding (letting others do the work), diffusion of responsibility ("Someone else will handle it").
+</define>
+
+<example>
+Workplace (Team Projects)
+Observation: In large teams, some members contribute minimally, assuming others will compensate.
+Example: A 10-person marketing team misses a deadline because 3 members barely participated.
+Solution: Smaller teams, clear role division, and peer evaluations.
+</example>
+
+<example>
+Academia (Group Assignments)
+Observation: In student group projects, 1–2 members often do most of the work.
+Example: A 5-person biology presentation receives a low grade due to uneven contributions.
+Solution: Individual grading components + peer feedback.
+</example>
+
+<example>
+Open-Source Software Development
+Observation: Large projects (e.g., Linux) rely on a small core of contributors while many "passengers" submit minor fixes.
+Solution: Recognition systems (e.g., GitHub "Contributor" badges) to motivate participation.
+</example>
+

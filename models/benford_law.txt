@@ -1,0 +1,31 @@
+<id>
+Benford's law
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A counterintuitive statistical principle stating that in many naturally occurring datasets, the leading digits (1–9) follow a predictable logarithmic distribution, where: 1 appears ~30% of the time, 2 appears ~17.6%, 9 appears ~4.6%.
+Unlike uniform randomness, numbers in real-world data (e.g., populations, financial records) tend to cluster around lower digits due to multiplicative processes.
+</define>
+
+<example>
+Fraud Detection (Forensic Accounting)
+Example: Enron's manipulated financial statements had digit distributions that violated Benford's Law.
+How? Genuine expense reports or tax filings naturally follow Benford's pattern. Fraudsters forging numbers (e.g., round figures like $500) deviate from it.
+Use: Auditors flag anomalies (e.g., IRS uses it to detect tax evasion).
+</example>
+
+<example>
+Election Forensics (Vote Counting)
+Example: Analyzing vote counts for irregularities.
+How? Legitimate election results (e.g., precinct-level votes) typically fit Benford's distribution. Sudden spikes at round numbers (e.g., 100, 500) suggest manipulation.
+Use: Used to investigate anomalies in Iran's 2009 election.
+</example>
+

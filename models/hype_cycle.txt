@@ -1,0 +1,51 @@
+<id>
+hype cycle
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Hype Cycle is a model developed by Gartner to track the maturity, adoption, and societal impact of emerging technologies.
+The 5 Key Phases:
+Innovation Trigger – A breakthrough sparks media and investor excitement.
+Peak of Inflated Expectations – Hype exceeds reality; early adopters jump in, but many fail.
+Trough of Disillusionment – Interest fades as early implementations disappoint.
+Slope of Enlightenment – Practical uses emerge; businesses refine the technology.
+Plateau of Productivity – Mainstream adoption; technology delivers consistent value.
+</define>
+
+<example>
+Technology & Business Strategy
+Use Case: Deciding when to invest in AI.
+Peak (2016–2018): Overpromises of "general AI" led to inflated startups.
+Trough (2019–2020): Many AI firms folded; skepticism grew.
+Slope (2021–2025): Narrow AI (e.g., GPT, Midjourney) proves useful.
+Lesson: Companies that waited past the peak avoided costly mistakes.
+</example>
+
+<example>
+Healthcare (Medical Innovations)
+Use Case: CRISPR gene editing.
+Peak (2015–2016): "Designer babies" hype.
+Trough (2017–2019): Ethical scandals (e.g., He Jiankui case).
+Slope (2020–2025): FDA-approved therapies (e.g., sickle-cell treatment).
+Lesson: Pharma companies now focus on incremental, ethical applications.
+</example>
+
+<example>
+Automotive (Self-Driving Cars)
+Use Case: Autonomous vehicles (AVs).
+Peak (2016–2018): "Robotaxis by 2020!" (Tesla, Uber).
+Trough (2019–2022): Fatal crashes; Waymo scales back.
+Slope (2023–2025): Limited AV zones (e.g., Cruise in SF).
+Lesson: Incremental automation (e.g., Tesla Autopilot) wins over full autonomy.
+</example>
+
+
+

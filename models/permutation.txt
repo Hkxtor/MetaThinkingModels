@@ -1,0 +1,35 @@
+<id>
+permutation/combination
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Permutation refers to the arrangement of items in a specific order. Permutations care about sequence. 
+For combinations, order doesn't matter.
+It is useful for estimating the complexity of a problem, or the probability of an event.
+</define>
+
+<example>
+Problem: How strong is a password?
+Permutation Insight: An 8-character password using 94 possible symbols (letters, numbers, special chars) has 94^8≈6.1*10^15 permutations.
+Decision Impact: Longer passwords with diverse characters exponentially increase security.
+</example>
+
+<example>
+Problem: How many ways can sports teams be ranked?
+Permutation Insight: 6 teams can finish in 6!=720 unique orders.
+Decision Impact: Helps design fair playoff brackets or betting odds.
+</example>
+
+<example>
+Problem: Testing all feature combinations in a smartphone.
+Permutation Insight: 5 features with 3 options each: 3^5=243 permutations.
+Decision Impact: Use fractional factorial designs to test only critical combinations.
+</example>

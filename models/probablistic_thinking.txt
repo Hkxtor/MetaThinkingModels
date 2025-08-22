@@ -1,0 +1,39 @@
+<id>
+probabilistic thinking
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Probabilistic thinking is the mental model of viewing the world in terms of probabilities rather than certainties. Instead of thinking in absolutes ("This will/won't happen"), it asks: "What are the odds?" and incorporates uncertainty into decision-making.
+</define>
+
+<example>
+Scenario: Should you invest in a "hot" startup?
+Gut Reaction: "This could be the next Amazon!"
+Probabilistic View: 90% of startups fail. And even if it succeeds, returns might be modest. Better bet: Diversify across many high-potential bets.
+</example>
+
+<example>
+Scenario: You have a 60% chance to win a hand.
+Amateur Move: Fold because there's a risk of losing.
+Probabilistic Play: Bet aggressively - long-term, 60% odds are profitable.
+</example>
+
+<example>
+Scenario: Should a car swerve to avoid a pedestrian if it risks hitting another?
+Binary Ethics: "Never harm a human."
+Probabilistic Ethics: Weigh probabilities of outcomes (e.g., 90% chance to save Pedestrian A vs. 10% chance to harm Pedestrian B).
+</example>
+
+<example>
+Scenario: Refute moon Landing Hoax
+Gut Reaction: the video looks fake, it's a hoax.
+Probabilistic View: Involved 400,000+ people (NASA staff, contractors, astronauts, journalists). Probability all stayed silent for 50+ years: Near zero. Even if 99.9% were loyal, 400+ people would've talked.
+</example>

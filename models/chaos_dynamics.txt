@@ -1,0 +1,34 @@
+<id>
+chaos dynamics
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Chaos dynamics (or chaos theory) studies systems that are highly sensitive to initial conditions—where tiny changes can lead to vastly different outcomes. 
+These systems appear random but follow deterministic rules, making them predictable in the short term but unpredictable in the long term.
+</define>
+
+<example>
+Weather Forecasting
+Chaos in Action: Tiny measurement errors in atmospheric data grow exponentially, limiting forecasts to ~10 days.
+Decision Impact: Use probabilistic models (e.g., "30% chance of rain") rather than absolute predictions.
+</example>
+
+<example>
+Traffic Flow
+Chaos in Action: A single car braking can cause a miles-long traffic jam (phantom traffic waves).
+Decision Impact: Autonomous cars can smooth flow by reducing human reaction delays.
+</example>
+
+<example>
+Economics (Market Crashes)
+Chaos in Action: A minor event (e.g., a bank collapse) can trigger global financial chaos due to interconnected systems.
+Decision Impact: Diversify investments to hedge against unpredictable shocks.
+</example>

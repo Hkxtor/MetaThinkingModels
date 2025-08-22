@@ -1,0 +1,36 @@
+<id>
+straw man fallacy
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The straw man fallacy occurs when someone misrepresents or oversimplifies an opponent's argument to make it easier to attack, rather than engaging with the actual, more nuanced position. It's like building a weak "straw man" version of the argument, knocking it down, and pretending the real argument has been refuted.
+</define>
+
+<example>
+Politics & Debates
+Actual Argument: "We should increase education funding to improve public schools."
+Straw Man Attack: "So you want to bankrupt taxpayers by throwing endless money at failing schools?"
+Why It's Wrong: The critic ignores the proposal's intent (targeted improvements) and invents an extreme, wasteful version.
+</example>
+
+<example>
+Workplace Discussions
+Actual Argument: "Let's allow flexible work-from-home options for better work-life balance."
+Straw Man Attack: "You just want everyone to slack off in pajamas all day!"
+Why It's Wrong: The rebuttal falsely equates flexibility with laziness, ignoring productivity and morale benefits.
+</example>
+
+<example>
+Social Media & Culture
+Actual Argument: "We should reconsider glorifying excessive consumerism for environmental reasons."
+Straw Man Attack: "Oh, so you think nobody should ever buy anything fun again? Enjoy your cave, hippie!"
+Why It's Wrong: The response absurdly twists the argument into an anti-consumerist extreme.
+</example>

@@ -1,0 +1,38 @@
+<id>
+contrarian thinking
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Contrarian thinking is a strategy of deliberately challenging mainstream opinions, assumptions, or trends to uncover overlooked opportunities or hidden flaws. Instead of following the crowd, contrarians ask: "What if the consensus is wrong?"
+</define>
+
+<example>
+Investing: "Buy When There's Blood in the Streets"
+Consensus View: During a market crash, panic selling dominates.
+Contrarian Move: Warren Buffett's mantra: "Be fearful when others are greedy, and greedy when others are fearful."
+Example: In 2008, Buffett invested $5B in Goldman Sachs amid the financial crisis, earning a 70% return.
+Why It Works: Mass pessimism often overshoots, creating undervalued opportunities.
+</example>
+
+<example>
+Tech Innovation: "The Next Big Thing is Hated at First"
+Contrarian Move: Embrace the "toy phase" — ideas dismissed as trivial often scale explosively.
+Example: Airbnb was initially ridiculed ("Who would stay in a stranger's home?"). Contrarians saw trust-building tech as the future.
+Why It Works: Early adopters bet on behavioral shifts before they're obvious.
+</example>
+
+<example>
+Career Choices: "Follow the Less Crowded Path"
+Consensus View: "Go to law school for a stable career."
+Contrarian Move: In the 2010s, some lawyers pivoted to coding bootcamps — a faster, cheaper route to high-paying jobs.
+Example: The rise of "alt education" (Udacity, Lambda School) capitalized on degree inflation.
+Why It Works: Overcrowded fields depress wages; scarcity creates leverage.
+</example>

@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThinkingModels - AI-Powered Problem Solving</title>
+    
+    <!-- Bootstrap CSS for responsive design -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', path='/css/style.css') }}">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="/">
+                <i class="fas fa-brain me-2"></i>ThinkingModels
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#query-section">Query</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#models-section">Models</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#api-docs" target="_blank">API Docs</a>
+                    </li>
+                    <li class="nav-item">
+                        <span class="nav-link" id="status-indicator">
+                            <span class="spinner-border spinner-border-sm me-2" role="status"></span>
+                            <span id="status-text">Connecting...</span>
+                        </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container-fluid mt-4">
+        
+        <!-- Hero Section -->
+        <section class="row mb-5">
+            <div class="col-lg-8 mx-auto text-center">
+                <h1 class="display-4 mb-3">
+                    <i class="fas fa-lightbulb text-warning"></i>
+                    AI-Powered Problem Solving
+                </h1>
+                <p class="lead mb-4">
+                    Solve complex problems using curated thinking models and advanced AI. 
+                    Get structured solutions powered by 140+ proven mental frameworks.
+                </p>
+                <div id="system-status" class="alert alert-info">
+                    <i class="fas fa-info-circle me-2"></i>
+                    <span id="status-message">Loading system status...</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Query Section -->
+        <section id="query-section" class="row mb-5">
+            <div class="col-lg-10 mx-auto">
+                <div class="card shadow">
+                    <div class="card-header bg-gradient-primary text-white">
+                        <h3 class="card-title mb-0">
+                            <i class="fas fa-question-circle me-2"></i>Ask Your Question
+                        </h3>
+                    </div>
+                    <div class="card-body p-4">
+                        <form id="query-form">
+                            <div class="mb-3">
+                                <label for="query-input" class="form-label">
+                                    <strong>Describe your problem or question:</strong>
+                                </label>
+                                <textarea 
+                                    class="form-control" 
+                                    id="query-input" 
+                                    rows="4" 
+                                    placeholder="e.g., How can I improve my startup's marketing strategy? What's the best approach to prioritize my tasks? How should I analyze this business decision?"
+                                    required
+                                ></textarea>
+                                <div class="form-text">
+                                    Be specific about your challenge. The AI will select the most relevant thinking models to help solve it.
+                                </div>
+                            </div>
+                            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                                <button type="button" class="btn btn-outline-secondary me-md-2" id="clear-btn">
+                                    <i class="fas fa-eraser me-2"></i>Clear
+                                </button>
+                                <button type="submit" class="btn btn-primary btn-lg" id="submit-btn">
+                                    <i class="fas fa-rocket me-2"></i>Solve Problem
+                                </button>
+                            </div>
+                        </form>
+                        
+                        <!-- Processing Status -->
+                        <div id="processing-status" class="mt-4" style="display: none;">
+                            <div class="d-flex align-items-center">
+                                <div class="spinner-border text-primary me-3" role="status">
+                                    <span class="visually-hidden">Loading...</span>
+                                </div>
+                                <div>
+                                    <h6 class="mb-1">Processing your query...</h6>
+                                    <p class="mb-0 text-muted" id="processing-message">
+                                        Selecting thinking models and generating solution
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section id="results-section" class="row mb-5" style="display: none;">
+            <div class="col-lg-10 mx-auto">
+                <div class="card shadow">
+                    <div class="card-header bg-success text-white d-flex justify-content-between align-items-center">
+                        <h3 class="card-title mb-0">
+                            <i class="fas fa-check-circle me-2"></i>Solution
+                        </h3>
+                        <div>
+                            <button type="button" class="btn btn-light btn-sm me-2" id="copy-result-btn">
+                                <i class="fas fa-copy me-1"></i>Copy
+                            </button>
+                            <button type="button" class="btn btn-light btn-sm" id="export-result-btn">
+                                <i class="fas fa-download me-1"></i>Export
+                            </button>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <!-- Query Info -->
+                        <div class="row mb-4">
+                            <div class="col-md-6">
+                                <h6 class="text-muted">Your Query:</h6>
+                                <p id="result-query" class="fw-bold"></p>
+                            </div>
+                            <div class="col-md-3">
+                                <h6 class="text-muted">Selected Models:</h6>
+                                <div id="selected-models"></div>
+                            </div>
+                            <div class="col-md-3">
+                                <h6 class="text-muted">Processing Time:</h6>
+                                <p id="processing-time" class="fw-bold text-success"></p>
+                            </div>
+                        </div>
+                        
+                        <!-- Solution Content -->
+                        <div class="solution-content">
+                            <h5 class="mb-3">
+                                <i class="fas fa-lightbulb text-warning me-2"></i>Solution:
+                            </h5>
+                            <div id="solution-text" class="solution-body"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Models Section -->
+        <section id="models-section" class="row mb-5">
+            <div class="col-lg-10 mx-auto">
+                <div class="card shadow">
+                    <div class="card-header bg-info text-white">
+                        <h3 class="card-title mb-0">
+                            <i class="fas fa-cogs me-2"></i>Available Thinking Models
+                        </h3>
+                    </div>
+                    <div class="card-body">
+                        <div class="row mb-4">
+                            <div class="col-md-8">
+                                <p class="mb-0">
+                                    Explore our comprehensive collection of thinking models and mental frameworks.
+                                </p>
+                            </div>
+                            <div class="col-md-4 text-end">
+                                <button class="btn btn-outline-info" id="refresh-models-btn">
+                                    <i class="fas fa-sync-alt me-2"></i>Refresh
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <!-- Models Summary -->
+                        <div id="models-summary" class="row mb-4">
+                            <div class="col-md-3">
+                                <div class="text-center p-3 bg-light rounded">
+                                    <h4 class="text-primary mb-1" id="total-models">--</h4>
+                                    <small class="text-muted">Total Models</small>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="text-center p-3 bg-light rounded">
+                                    <h4 class="text-success mb-1" id="solve-models">--</h4>
+                                    <small class="text-muted">Problem Solving</small>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="text-center p-3 bg-light rounded">
+                                    <h4 class="text-info mb-1" id="explain-models">--</h4>
+                                    <small class="text-muted">Explanatory</small>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="text-center p-3 bg-light rounded">
+                                    <h4 class="text-warning mb-1" id="field-count">--</h4>
+                                    <small class="text-muted">Fields</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Models Filter -->
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <input type="text" class="form-control" id="models-search" 
+                                       placeholder="Search models by name or keyword...">
+                            </div>
+                            <div class="col-md-3">
+                                <select class="form-select" id="type-filter">
+                                    <option value="">All Types</option>
+                                    <option value="solve">Problem Solving</option>
+                                    <option value="explain">Explanatory</option>
+                                </select>
+                            </div>
+                            <div class="col-md-3">
+                                <select class="form-select" id="field-filter">
+                                    <option value="">All Fields</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <!-- Models List -->
+                        <div id="models-list" class="row">
+                            <div class="col-12 text-center py-4">
+                                <div class="spinner-border text-info" role="status">
+                                    <span class="visually-hidden">Loading models...</span>
+                                </div>
+                                <p class="mt-2 text-muted">Loading thinking models...</p>
+                            </div>
+                        </div>
+
+                        <!-- Pagination -->
+                        <nav id="models-pagination" class="mt-4" style="display: none;">
+                            <ul class="pagination justify-content-center" id="pagination-list">
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Examples Section -->
+        <section class="row mb-5">
+            <div class="col-lg-10 mx-auto">
+                <div class="card shadow">
+                    <div class="card-header bg-secondary text-white">
+                        <h3 class="card-title mb-0">
+                            <i class="fas fa-star me-2"></i>Example Queries
+                        </h3>
+                    </div>
+                    <div class="card-body">
+                        <p class="mb-4">Try these example queries to see how ThinkingModels can help solve different types of problems:</p>
+                        
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <div class="example-card p-3 border rounded h-100">
+                                    <h6 class="text-primary">
+                                        <i class="fas fa-chart-line me-2"></i>Business Strategy
+                                    </h6>
+                                    <p class="mb-2">"How can I improve my startup's customer acquisition and reduce churn?"</p>
+                                    <button class="btn btn-sm btn-outline-primary try-example-btn">Try This</button>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <div class="example-card p-3 border rounded h-100">
+                                    <h6 class="text-success">
+                                        <i class="fas fa-tasks me-2"></i>Productivity
+                                    </h6>
+                                    <p class="mb-2">"What's the best approach to prioritize my daily tasks and manage time effectively?"</p>
+                                    <button class="btn btn-sm btn-outline-success try-example-btn">Try This</button>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <div class="example-card p-3 border rounded h-100">
+                                    <h6 class="text-info">
+                                        <i class="fas fa-chart-bar me-2"></i>Data Analysis
+                                    </h6>
+                                    <p class="mb-2">"Help me analyze large datasets to identify patterns and make data-driven decisions."</p>
+                                    <button class="btn btn-sm btn-outline-info try-example-btn">Try This</button>
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <div class="example-card p-3 border rounded h-100">
+                                    <h6 class="text-warning">
+                                        <i class="fas fa-handshake me-2"></i>Decision Making
+                                    </h6>
+                                    <p class="mb-2">"How should I approach negotiations to achieve better outcomes for both parties?"</p>
+                                    <button class="btn btn-sm btn-outline-warning try-example-btn">Try This</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-4 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>ThinkingModels</h5>
+                    <p class="mb-0">AI-powered problem solving using curated thinking models.</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p class="mb-0">
+                        <a href="/docs" class="text-white me-3">API Documentation</a>
+                        <a href="/health" class="text-white">System Health</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Error Modal -->
+    <div class="modal fade" id="errorModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg-danger text-white">
+                    <h5 class="modal-title">
+                        <i class="fas fa-exclamation-triangle me-2"></i>Error
+                    </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <p id="error-message">An unexpected error occurred.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Model Detail Modal -->
+    <div class="modal fade" id="modelModal" tabindex="-1">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modal-model-title"></h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <div id="modal-model-content"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked@5.1.1/marked.min.js"></script>
+    <script src="{{ url_for('static', path='/js/app.js') }}"></script>
+</body>
+</html>

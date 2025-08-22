@@ -1,0 +1,33 @@
+<id>
+bfs
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Breadth-First Search (BFS) is a graph traversal algorithm that explores all nodes at the current depth level before moving to nodes at the next depth. It uses a queue (First-In-First-Out, FIFO) to keep track of nodes to visit next.
+BFS is ideal for problems where: 
+Shortest path (in unweighted systems) matters. Progressive expansion (exploring nearest options first) is useful. Systematic, level-wise exploration is needed (e.g., network broadcasts, cascading effects).
+</define>
+
+<example>
+Social Network Friend Recommendations
+How BFS applies:
+When suggesting "People You May Know," platforms like Facebook/LinkedIn use BFS to find friends-of-friends (2nd/3rd degree connections). Explores connections level-by-level, prioritizing closer relationships first.
+Why BFS?
+Ensures recommendations are relevant (closer connections appear first).
+</example>
+
+<example>
+GPS Navigation (Shortest Path in Road Networks)
+How BFS applies:
+In unweighted road segments (e.g., cities with equal-distance blocks), BFS finds the shortest path by exploring all possible routes in concentric circles. Used in early routing algorithms and robotics (grid-based pathfinding).
+Why BFS?
+Guarantees the minimal number of steps when all edges have equal weight.
+</example>

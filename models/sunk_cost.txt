@@ -1,0 +1,31 @@
+<id>
+sunk cost
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Sunk costs refer to resources—time, money, effort—that have already been invested in a project or decision and cannot be recovered, regardless of future outcomes. 
+In economic and decision-making theory, sunk costs should ideally be ignored when evaluating whether to continue an endeavor, as they don't change based on what happens next.
+</define>
+
+<example>
+Business
+Scenario: A failing product launch.
+Explanation: A company spends $5 million developing a gadget that's poorly received. Despite weak sales, they pour another $2 million into marketing to recoup the initial investment, rather than pivoting to a new product.
+How It Applies: The $5 million is a sunk cost—unrecoverable regardless of future action. Continuing often stems from the fallacy, while abandoning it for a fresh start aligns with rational cost-benefit analysis.
+</example>
+
+<example>
+Education
+Scenario: Sticking with an unsuitable degree.
+Explanation: A student spends three years and $60,000 on a major they dislike. Rather than switching to a field they love (adding a year), they finish the original degree to avoid "wasting" their investment.
+How It Applies: The time and money are sunk—staying the course locks them into an unhappy career. Recognizing sunk costs could free them to pursue a better fit, focusing on future value.
+</example>
+

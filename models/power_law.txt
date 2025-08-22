@@ -1,0 +1,45 @@
+<id>
+power law
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A power law describes a relationship where a small number of items account for the majority of effects, while a long tail of many items contributes minimally.
+Key feature: A "winner-takes-most" dynamic, unlike the symmetric bell curve. 
+Can be observed in Wealth Distribution, City Populations, Earthquake Magnitudes, Book Sales, Social Media, etc.
+</define>
+
+<example>
+Field: Business (Pareto Principle – 80/20 Rule)
+Use Case: 80% of revenue often comes from 20% of customers.
+Example: Amazon focuses on high-volume "head" products (e.g., iPhones) while still stocking the "long tail" (niche books).
+Decision Impact: Prioritize key clients or products for growth.
+</example>
+
+<example>
+Field: Investing (Venture Capital)
+Use Case: Most startups fail, but a few (e.g., Facebook, Tesla) deliver 1000x returns.
+Example: Y Combinator invests in 100+ startups knowing 1–2 will cover all losses.
+Decision Impact: Diversify bets and embrace asymmetric returns.
+</example>
+
+<example>
+Field: Technology (Network Effects)
+Use Case: Platforms like Facebook or Airbnb grow exponentially because value scales with users.
+Example: The first 1M users are hard to acquire; the next 100M come easily.
+Decision Impact: Early traction is critical—dominate a niche before scaling.
+</example>
+
+<example>
+Field: Career Strategy (Skill Stacking)
+Use Case: Top performers in fields like sports or tech earn orders of magnitude more.
+Example: A top 1% programmer may earn 10x an average one.
+Decision Impact: Specialize or combine rare skills (e.g., coding + design + storytelling).
+</example>

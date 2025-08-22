@@ -1,0 +1,49 @@
+<id>
+dynamic programming
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Dynamic Programming (DP) is a problem-solving technique used in computer science and mathematics to solve complex problems by breaking them down into smaller, overlapping subproblems, solving each subproblem only once, and storing the results for reuse. IDP leverages the principle of optimal substructure (the optimal solution to the problem can be constructed from optimal solutions to its subproblems) and overlapping subproblems (the same subproblems are solved multiple times in a recursive approach).
+
+Key Components:
+Subproblems: Break the problem into smaller, manageable pieces.
+Memoization or Tabulation: Store results of subproblems to avoid redundant calculations.
+Memoization: Top-down approach, storing results in a cache during recursive calls.
+Tabulation: Bottom-up approach, filling a table iteratively with subproblem solutions.
+Recurrence Relation: A mathematical formula that defines the solution to a problem in terms of solutions to smaller subproblems.
+Optimal Solution: Combine subproblem solutions to construct the overall optimal solution.
+</define>
+
+<example>
+Computer Science: Shortest Path in a Graph (Floyd-Warshall Algorithm)
+Context: A logistics company needs to find the shortest routes between all pairs of cities in a transportation network to optimize delivery costs.
+Problem: Given a weighted graph with cities as nodes and roads as edges, compute the shortest path between every pair of cities.
+DP Application: The Floyd-Warshall Algorithm uses dynamic programming to solve the all-pairs shortest path problem.  
+Subproblems: For each pair of nodes (i, j), find the shortest path considering intermediate nodes k (from 1 to n).  
+Example: For a graph with 4 cities and edge weights, the algorithm computes shortest paths (e.g., City A to City D via City B) by comparing direct and intermediate routes.
+Outcome: The logistics company used the Floyd-Warshall algorithm to generate a distance matrix, enabling efficient route planning for deliveries, reducing fuel costs by 15%. The DP approach ensured all possible paths were considered optimally.
+</example>
+
+<example>
+Economics/Operations Research: Knapsack Problem for Resource Allocation
+Context: A renewable energy company needs to allocate a limited budget to a portfolio of solar, wind, and hydro projects to maximize energy output.
+Problem: Given a set of projects with costs and energy outputs, select a subset that maximizes total energy output without exceeding the budget (a 0/1 knapsack problem).
+DP Application: The 0/1 Knapsack Algorithm uses dynamic programming to optimize project selection.  
+Subproblems: For each project i and budget capacity w, find the maximum energy output possible.  
+Example: With a $10M budget and projects (Solar: $5M, 100 MW; Wind: $4M, 80 MW; Hydro: $7M, 120 MW), DP selects Solar and Wind for 180 MW, maximizing output within the budget.
+Outcome: The company used the knapsack algorithm to allocate $9M to solar and wind projects, achieving 20% higher energy output than a greedy approach. DP ensured the optimal combination of projects was selected systematically.
+</example>
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+<id>
+The Hedonic Treadmill
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A psychological phenomenon where humans quickly return to a baseline level of happiness (or unhappiness) after major positive or negative life events. Despite changes in circumstances—like getting richer, achieving goals, or suffering losses—people adapt emotionally, keeping their long-term happiness levels stable.
+</define>
+
+<example>
+Wealth & Materialism
+Example: Winning the lottery initially brings euphoria, but within a year, most winners return to their pre-win happiness level (or even feel worse due to new stresses).
+Why? People adapt to luxury (e.g., a new car becomes "normal"), and desires escalate ("Now I need a bigger house").
+Real-World Data: Studies show millionaires are only slightly happier than average earners.
+</example>
+
+<example>
+Technology & Gadgets
+Example: The excitement of buying the latest iPhone wears off within weeks, leaving users craving the next model.
+Why? Novelty fades fast—a phenomenon marketers exploit to drive endless consumption.
+</example>
+
+<example>
+Relationships
+Example: The "honeymoon phase" of a marriage fades as couples adapt to each other, seeking new thrills (or complaining about mundane conflicts).
+Why? Romantic passion naturally declines over time unless actively nurtured.
+Divorce Paradox: Divorced people often rebound to pre-divorce happiness levels within a few years.
+</example>

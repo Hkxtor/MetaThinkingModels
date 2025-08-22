@@ -1,0 +1,33 @@
+<id>
+hill climbing
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Hill climbing is a heuristic optimization strategy used to solve problems by iteratively making small, incremental improvements to a solution, moving toward a better outcome with each step. 
+The algorithm evaluates nearby options (local neighbors) and selects the one that improves the current solution the most, continuing until it reaches a peak (a local optimum) where no further improvement is possible within the immediate vicinity.
+Limitation: It can get stuck in local optima—peaks that aren't the highest (global optimum) in the entire problem space.
+</define>
+
+<example>
+Chemistry: Molecular Design for Drug Development
+Problem: Design a molecule with optimal binding affinity to a target protein.
+Application: Begin with a candidate molecule and define an objective function (e.g., binding energy score). Use hill climbing to tweak the molecule's structure—e.g., swap a functional group or adjust a bond—keeping changes that improve the score.
+Process: Start with molecule X - Replace a hydrogen with a methyl group - Test binding energy - If better, keep it - Repeat until no tweak improves the score.
+Outcome: The result is a locally optimized molecule that binds effectively, though it might not be the globally best structure.
+</example>
+
+<example>
+Computer Science: Optimizing Neural Network Weights
+Problem: Train a neural network to minimize prediction error on a dataset.
+Application: In gradient descent (a form of hill climbing), the algorithm adjusts the network's weights step-by-step to reduce the error (loss function). At each iteration, it calculates the gradient (direction of steepest descent) and moves the weights slightly in that direction.
+Process: Start with random weights → Compute error → Adjust weights to lower error → Repeat until error plateaus.
+Outcome: The network converges to a set of weights that performs well, though it might settle in a local minimum rather than the global best. (Variants like stochastic gradient descent add randomness to escape local optima.)
+</example>

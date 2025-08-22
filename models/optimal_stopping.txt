@@ -1,0 +1,30 @@
+<id>
+optimal stopping
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Optimal stopping is a mathematical theory that helps determine the best time to take a particular action, such as accepting an offer or making a decision, to maximize reward or minimize cost. 
+It's about finding the sweet spot where waiting longer might not yield a better outcome, and acting too soon could mean missing out on something better.
+The optimal strategy, assuming you're evaluating 100 candidates, is to observe the first 37 (roughly 1/e, where e ≈ 2.718) without choosing, then pick the first candidate after that who's better than all those seen so far.
+</define>
+
+<example>
+Job Hunting: Say you're looking for a job and getting offers over time. You don't want to accept the first offer immediately, but you also don't want to wait forever and risk losing good options. 
+Using an optimal stopping approach, you might spend the first third of your search period (say, a month out of three) just seeing what's out there to set a baseline. 
+Then, take the first offer after that beats your baseline, assuming offers don't come back around. This helps you avoid settling too early or holding out too long.
+</example>
+
+<example>
+Real Estate: When buying a house, you're often under pressure to bid before properties are snatched up. Suppose you have a month to look and expect to see 10 houses. 
+An optimal strategy might be to view the first 3 or 4 to establish a quality benchmark, then bid on the next one that tops them—assuming you can't revisit earlier options. 
+This balances the risk of missing a gem early on with the cost of overanalyzing.
+</example>
+

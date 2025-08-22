@@ -1,0 +1,22 @@
+# Example queries for ThinkingModels batch processing
+# Lines starting with # are comments and will be ignored
+
+How can I improve my startup's marketing strategy and customer acquisition?
+
+What's the best approach to analyze large datasets for patterns?
+
+Help me prioritize my daily tasks more effectively.
+
+I need to solve a complex scheduling problem with multiple constraints.
+
+How can I make better investment decisions with limited information?
+
+What strategies can I use to reduce procrastination and increase productivity?
+
+Help me design a better user interface for my mobile app.
+
+How should I approach negotiations to get better outcomes?
+
+What's the best way to manage risk in my business operations?
+
+How can I improve team communication and collaboration?

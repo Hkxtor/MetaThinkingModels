@@ -1,0 +1,42 @@
+<id>
+error correction code
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Error correction codes are mathematical techniques that detect and fix errors in digital data transmission or storage. They work by adding redundant bits to the original data, creating a self-correcting system.
+Key Principles:
+Redundancy: Extra bits are added to the data (like a "checksum")
+Detection: Identify if errors occurred
+Correction: Fix errors automatically when possible
+</define>
+
+<example>
+Financial Systems
+Bank Transactions
+Checksum digits in credit card numbers
+Example: Your card gets declined if you mistype a digit
+</example>
+
+<example>
+Audio/Video Media
+CDs & Blu-rays
+Cross-Interleaved Reed-Solomon Coding (CIRC)
+Example: Music plays perfectly despite disc scratches
+</example>
+
+<example>
+Satellite Communications
+Viterbi algorithm corrects cosmic ray interference
+Example: Mars rover photos transmitted through radiation
+</example>
+
+
+

@@ -1,0 +1,34 @@
+<id>
+Reductio ad Absurdum
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Reductio ad Absurdum: A rhetorical and logical technique where an argument is disproven by showing it leads to an absurd, contradictory, or impossible conclusion when taken to its extreme.
+Key Steps:
+Assume the opponent's premise is true.
+Demonstrate that this assumption results in an illogical or ridiculous outcome.
+Conclude the original premise must be false.
+</define>
+
+<example>
+Economics (Laissez-Faire Extremism)
+Scenario: A policymaker argues "Zero regulation maximizes prosperity."
+Reductio: If no regulations exist, companies could sell poisoned food (cutting costs). Consumers die → market collapses → prosperity vanishes.
+Conclusion: Some regulation is necessary (e.g., FDA food safety rules).
+</example>
+
+<example>
+Technology (AI Ethics)
+Scenario: A tech CEO claims "User data should always be monetized."
+Reductio:If all data is monetized, hospitals could sell mental health records to advertisers.
+Patients avoid treatment → public health crisis → societal harm.
+Conclusion: Ethical constraints on data use are essential.
+</example>

@@ -1,0 +1,34 @@
+<id>
+Multiply by zero/shortest plank theory
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+This concept, inspired by the mathematical idea that any number multiplied by zero equals zero, refers to the idea that a single critical weakness can negate all other strengths in a system. It's also called the "Shortest Plank Theory" (from the proverb "A chain is only as strong as its weakest link").
+</define>
+
+<example>
+Field: Engineering & Safety (Structural Integrity)
+Example: A bridge with 99% robust materials but one corroded bolt can collapse.
+Decision Impact: Prioritize redundancy and regular inspections.
+Fix critical vulnerabilities first (e.g., aircraft maintenance).
+</example>
+
+<example>
+Field: Cybersecurity (Network Defense)
+Example: A company with firewalls, encryption, but one employee clicking a phishing link - data breach.
+Decision Impact: Train all staff, not just upgrade tech.
+</example>
+
+<example>
+Field: Business (Product Launches)
+Example: A smartphone with cutting-edge specs but a fatal software bug (e.g., Samsung Galaxy Note 7's battery fires).
+Decision Impact: Stress-test all components before release. A single PR disaster can erase years of brand equity.
+</example>

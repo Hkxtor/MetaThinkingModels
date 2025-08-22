@@ -1,0 +1,38 @@
+<id>
+spaced repetition
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Spaced repetition is a learning technique that optimizes memory retention by reviewing information at strategically timed intervals. Instead of cramming, it leverages the brain's "forgetting curve" (discovered by Ebbinghaus) to reinforce knowledge just before it fades.
+</define>
+
+<example>
+Software Learning (Onboarding & UX)
+Problem: Users abandon apps they can’t master quickly.
+Solution:
+Interactive tutorials that reintroduce features progressively:
+Day 1: Basic navigation.
+Day 5: Keyboard shortcuts.
+Day 14: Advanced workflows.
+Example:
+Duolingo uses spaced repetition to teach languages, but similar logic applies to tools like Figma or Excel.
+</example>
+
+<example>
+Healthcare (Patient Adherence)
+Problem: Patients forget medication schedules or post-op care instructions.
+Solution:
+SMS reminders with increasing gaps (e.g., "Take Pill X" → Day 1, Day 3, Day 7).
+Apps like Medisafe combine reminders with spaced education ("Why this pill matters").
+Example:
+Diabetics taught carb-counting via spaced mobile quizzes show better long-term compliance.
+</example>
+

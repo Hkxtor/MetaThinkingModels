@@ -1,0 +1,36 @@
+<id>
+recursion
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Recursion is a problem-solving method where a problem is tackled by breaking it down into smaller, similar instances of the same problem. 
+In essence, it involves a function or process calling itself with a reduced version of the original input until a simple, solvable condition—known as the base case—is reached.
+</define>
+
+<example>
+Data Structures: Traversing a Binary Tree
+Problem: Visit all nodes in a binary tree, such as in an in-order traversal (left subtree, current node, right subtree).
+Recursive Approach: 
+	Base Case: If the current node is null, stop (no further traversal needed).
+	Recursive Case: Recursively traverse the left subtree, process the current node, then recursively traverse the right subtree.
+How It Works: A binary tree is naturally recursive—each subtree is itself a tree. Recursion breaks the traversal into smaller subtrees, systematically covering the entire structure.
+Benefit: This approach simplifies the code and aligns with the tree's hierarchical nature, making it easier to implement than an iterative solution with explicit stack management.
+</example>
+
+<example>
+Linguistics: Parsing Sentence Structures
+Problem: Analyze the structure of a sentence that may include nested clauses or phrases, such as "The cat that chased the mouse slept."
+Recursive Approach:
+	Break the sentence into smaller units (e.g., noun phrases, verb phrases, clauses).
+	Apply the same parsing rules recursively to each subunit, which may itself contain nested structures.
+How It Works: Language often has recursive properties—clauses can embed other clauses. Recursion handles this by treating each nested structure as a smaller instance of the same parsing problem.
+Benefit: It enables parsers to process complex, hierarchical sentence structures with arbitrary levels of nesting.
+</example>

@@ -1,0 +1,30 @@
+<id>
+inversion
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Inversion is a mental model that involves approaching problems or decisions by considering the opposite of the desired outcome—essentially, thinking backward to identify potential failures or obstacles.
+</define>
+
+<example>
+Standard Approach: "How can I be more productive?"
+Inversion: "What habits make me unproductive?" Avoid distractions; Stop procrastinating by eliminating unclear priorities.
+</example>
+
+<example>
+Standard Approach: "How can I pick winning stocks?"
+Inversion: "How could I lose money in the market?" Stop emotional trading; Spread risk across assets.
+</example>
+
+<example>
+Standard Approach: "How can I strengthen my relationships?"
+Inversion: "What behaviors ruin relationships?" Not listening → Practice active listening; Taking others for granted → Show appreciation.
+</example>

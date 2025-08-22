@@ -1,0 +1,32 @@
+<id>
+deliberate practice
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Deliberate practice is a structured, focused method of skill improvement involving: Specific Goals (not just repetition), Immediate Feedback (to correct errors), Stepping Outside Comfort Zones (targeted challenges).
+Popularized by Malcolm Gladwell's Outliers, the 10,000-hour rule suggests mastery requires roughly 10,000 hours of such practice—though quality matters more than raw time.
+</define>
+
+<example>
+Chess Grandmasters (Bobby Fischer)
+Practice: Fischer studied chess 10+ hours/day, analyzing classic games and solving tactical puzzles.
+Feedback: Worked with coaches, reviewed losses, and memorized thousands of positions.
+Result: Became a grandmaster at 15—one of the youngest in history.
+</example>
+
+<example>
+NBA Legends (Kobe Bryant)
+Practice: Bryant's "666" regimen (6 hours/day, 6 days/week, 6 months/year) included:
+800+ jump shots with a coach tracking accuracy.
+Game footage analysis to refine footwork and decision-making.
+Result: 5 NBA championships and 18 All-Star selections.
+</example>
+

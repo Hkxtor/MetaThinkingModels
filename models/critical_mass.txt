@@ -1,0 +1,31 @@
+<id>
+critical mass
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Critical mass refers to the point at which a system, process, or phenomenon reaches a threshold sufficient to trigger a significant change, sustain itself, or produce a desired outcome. 
+It's the minimum amount of something—people, resources, momentum—needed for a self-reinforcing effect to take hold.
+</define>
+
+<example>
+Technology Adoption
+Scenario: The rise of social media platforms like Facebook.
+Explanation: Early on, Facebook needed enough users to make it valuable—people join networks where their friends already are (the network effect). Once it hit a critical mass of users, its growth exploded as more joined to connect with the existing base.
+How It Applies: Critical mass here is the user threshold where the platform becomes self-sustaining, explaining why some tech products take off while others languish without enough early adopters.
+</example>
+
+<example>
+Physics and Energy
+Scenario: Nuclear chain reaction in a fission bomb.
+Explanation: A nuclear explosion requires a critical mass of fissile material (e.g., uranium-235). Below this amount, neutrons escape without sustaining fission; once critical mass is reached, each splitting atom triggers others, releasing massive energy.
+How It Applies: This literal origin of the term shows how a precise threshold transforms a dormant system into an unstoppable reaction, foundational to nuclear technology.
+</example>
+

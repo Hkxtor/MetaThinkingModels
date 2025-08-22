@@ -1,0 +1,51 @@
+<id>
+Stochastic Processes
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A stochastic process is a collection of random variables representing how a system evolves over time or space in a probabilistic (non-deterministic) way. Unlike fixed equations, it models uncertainty and randomness in dynamic systems. It's a mathematical 'movie' where each frame is a probability distribution.
+</define>
+
+<sub>
+Discrete-Time (e.g., stock prices daily).
+</sub>
+
+<sub>
+Continuous-Time (e.g., temperature fluctuations).
+</sub>
+
+<sub>
+Markov Processes (future depends only on the present, not the past).
+</sub>
+
+<sub>
+Brownian Motion (random particle movement).
+</sub>
+
+<example>
+Field: Medicine (Disease Spread)
+Process: SIR Model (Stochastic Infectious Disease model).
+Use Case: Simulates COVID-19 spread with random interactions. Guides lockdowns/vaccine distribution. Estimating herd immunity thresholds.
+</example>
+
+<example>
+Field: Engineering (Reliability Analysis)
+Process: Poisson Process (random failures over time).
+Use Case: Predicts when a machine part might fail. Optimizes maintenance schedules.
+Example: Airline engine checks to prevent mid-flight failures.
+</example>
+
+<example>
+Field: Operations (Queue Management)
+Process: Queuing Theory (e.g., M/M/1 queues).
+Use Case: Models call center wait times with random arrivals. Optimizes staffing to reduce customer frustration.
+Example: How many cashiers to open at a supermarket.
+</example>

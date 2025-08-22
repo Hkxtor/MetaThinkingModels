@@ -1,0 +1,32 @@
+<id>
+exponential backoff
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Exponential backoff is a strategy used primarily in computer networking and distributed systems to manage retries after a failure, like when a server doesn't respond. 
+The idea is simple: if an attempt fails, wait a little before trying again, and if it fails again, wait longer—doubling (or exponentially increasing) the delay each time, often with some randomness (jitter) to avoid synchronized retries. 
+It balances persistence with patience, preventing overload while still aiming for success.
+</define>
+
+<example>
+Job Applications (Career): 
+You apply for a job and get no response. Rather than spamming the employer daily, wait a week, then follow up. No reply? Wait two weeks, then four, maybe tweaking your email or contacting a different person. 
+Cap it at a month and move on if needed. This keeps you persistent without seeming desperate, mirroring how backoff prevents server overload—your "request" gets a better shot when the timing's right.
+</example>
+
+<example>
+Sales (Business): 
+Pitching to a client who says "not now"? Call back in a week. No sale? Wait two weeks, then a month, each time refining your pitch or offering a small incentive. 
+This avoids annoying them (overloading their "server") while keeping you in their orbit, increasing the odds they’ll bite when their needs shift—exponential delays respect their space.
+</example>
+
+
+

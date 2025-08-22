@@ -1,0 +1,27 @@
+<id>
+marginal utility
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Marginal Utility (MU) is the additional satisfaction or benefit a person gains from consuming one more unit of a good or service. It is a key concept in economics that helps explain how individuals make decisions based on diminishing returns, the idea that each additional unit consumed provides less utility than the previous one.
+</define>
+
+<example>
+Time Management (Productivity)
+Studying for an exam—the first hour is highly productive (high MU), the second hour still helps, but after several hours, fatigue sets in, and retention drops (low MU).
+Behavioral Insight: Instead of cramming for 8 hours straight, it's better to take breaks or switch subjects when MU declines, maximizing overall learning efficiency.
+</example>
+
+<example>
+Business & Resource Allocation
+A company hires additional workers. The first few employees significantly boost production (high MU), but after a point, adding more workers leads to overcrowding and inefficiency (low or negative MU, known as diminishing returns).
+Behavioral Insight: Businesses should stop hiring when the marginal benefit of a new worker equals the cost (wage), optimizing labor use.
+</example>

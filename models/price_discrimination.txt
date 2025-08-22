@@ -1,0 +1,34 @@
+<id>
+price discrimination
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Price discrimination occurs when a seller charges different prices to different customers for the same product or service, based on their willingness or ability to pay. The goal is to maximize profit by capturing consumer surplus (the difference between what consumers would pay and what they actually pay).
+</define>
+
+<example>
+Airlines & Travel
+How it works:
+Business travelers (inelastic demand) pay more for last-minute flights.
+Leisure travelers (elastic demand) book early for discounts.
+Mechanism:
+Dynamic pricing algorithms adjust fares based on demand, time, and user data.
+</example>
+
+<example>
+Software & Subscriptions
+How it works:
+Tiered pricing (e.g., Spotify Free vs. Premium, Adobe Creative Cloud for students).
+Geographic pricing: Netflix subscriptions cost less in India than the U.S.
+Why?
+Captures different market segments without alienating low-income users.
+</example>
+

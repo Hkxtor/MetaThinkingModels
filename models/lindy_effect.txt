@@ -1,0 +1,29 @@
+<id>
+Lindy effect
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Lindy Effect is the idea that the future lifespan of non-perishable things (ideas, technologies, institutions) is proportional to their current age. The longer something has existed, the longer it's likely to survive.
+</define>
+
+<example>
+Technology (Programming Languages)
+Example: COBOL (60+ years old) still runs banking systems, while newer languages rise and fall.
+Decision Impact: Learn foundational tech (e.g., C, SQL) before chasing hyped tools.
+</example>
+
+<example>
+Investing (Blue-Chip Stocks)
+Example: Companies like Procter & Gamble (185+ years) outlast startups.
+Decision Impact: Allocate part of your portfolio to "Lindy" assets (e.g., index funds over meme stocks).
+</example>
+
+

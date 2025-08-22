@@ -1,0 +1,37 @@
+<id>
+loss aversion
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Loss aversion is a behavioral economics principle that describes how people tend to prefer avoiding losses over acquiring equivalent gains. 
+In other words, the emotional pain of losing something is felt more intensely than the pleasure of gaining the same amount.
+</define>
+
+<example>
+Personal Finance and Investing
+Scenario: An investor holds a stock that's dropped 20% in value.
+How It Plays Out: Rather than selling at a loss, they hold onto it, hoping to "break even," even if better opportunities exist elsewhere. The pain of locking in a $1,000 loss outweighs the potential joy of a $1,000 gain from reinvesting.
+Why: Loss aversion makes them prioritize avoiding the realized loss over maximizing future gains, often leading to suboptimal financial decisions.
+</example>
+
+<example>
+Healthcare
+Scenario: A patient decides whether to undergo a risky surgery.
+How It Plays Out: If told the surgery has a "90% success rate" (gain frame), they might hesitate. But if told "Without surgery, you have a 10% chance of dying" (loss frame), they're more likely to proceed. The fear of losing their life outweighs the appeal of a probable recovery.
+Why: Loss aversion amplifies the perceived cost of inaction, pushing people toward choices that minimize potential losses.
+</example>
+
+<example>
+Sports and Competition
+Scenario: A soccer team is tied in the final minutes of a match.
+How It Plays Out: The team shifts to a defensive strategy to avoid conceding a goal (a loss) rather than aggressively pursuing a winning goal (a gain). Coaches and players prioritize not losing over the chance to win.
+Why: The sting of defeat feels worse than the thrill of victory, so avoiding a loss becomes the dominant motive.
+</example>

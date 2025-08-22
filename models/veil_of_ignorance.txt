@@ -1,0 +1,37 @@
+<id>
+veil of ignorance 
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The veil of ignorance is a thought experiment where decision-makers design societal rules without knowing their own future status (e.g., wealth, race, gender). This ensures impartiality, as no one can rig the system in their favor.
+Key Idea: "What rules would you choose if you didn't know who you'd become?"
+</define>
+
+<example>
+Designing Fair Laws (Politics/Policy)
+Example: Creating a tax system.
+Behind the Veil: You don't know if you'll be rich or poor.
+Fair Outcome: Progressive taxation (wealthier pay more), as everyone would want a safety net if they ended up disadvantaged.
+</example>
+
+<example>
+Education Reform
+Example: Allocating school resources.
+Behind the Veil: You don't know if you'll be born into a wealthy or underfunded district.
+Fair Outcome: Equitable funding across schools, as everyone would want quality education regardless of zip code.
+</example>
+
+<example>
+Climate Justice (Global Ethics)
+Example: Deciding carbon emission limits.
+Behind the Veil: You don't know if you'll live in a flood-prone island nation or an oil-rich superpower.
+Fair Outcome: Strict global emissions standards, as those most vulnerable to climate change would demand protection.
+</example>

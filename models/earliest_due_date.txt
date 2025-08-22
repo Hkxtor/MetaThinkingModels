@@ -1,0 +1,35 @@
+<id>
+earliest due date/EDD
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+EDD is a scheduling strategy that sequence tasks by their deadlines, tackling the one due soonest first, then the next soonest, and so on.
+Optimizing For: Minimizing the maximum lateness. Lateness is how much a task's completion time exceeds its due date (if it's early, lateness is negative or zero). 
+EDD ensures no task is as late as it would be if you prioritized differently, assuming one resource (e.g., you) and no interruptions.
+</define>
+
+<example>
+Logistics (Delivery Services)
+Scenario: A delivery driver has three packages: one with a same-day delivery promise (due in 3 hours), another with a next-day guarantee (due in 24 hours), and a third with a standard 3-day window (due in 72 hours). 
+Traffic limits the driver to one drop-off at a time.
+EDD Application: Deliver the same-day package first (3 hours), then the next-day one (24 hours), and the 3-day one last (72 hours). This respects the tightest commitments first.
+Outcome: The company avoids breaking its same-day promise, keeping the worst lateness (and customer complaints) to a minimum.
+</example>
+
+<example>
+Education (Teaching/Grading)
+Scenario: A professor has assignments to grade: one set is due back to students in 2 days for a midterm review, another in 4 days for a progress report, and a third in 7 days for a final project draft. Grading takes focused time, and only one set can be done at once.
+EDD Application: Grade the midterm set first (2 days), then the progress report (4 days), and finally the project draft (7 days). This aligns with when students need feedback most urgently.
+Outcome: Students get timely midterm input, and the maximum delay on any feedback stays manageable, supporting their learning schedule.
+</example>
+
+
+

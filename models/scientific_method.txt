@@ -1,0 +1,42 @@
+<id>
+Scientific method
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A systematic process for observing, questioning, hypothesizing, experimenting, analyzing, and concluding to test ideas and advance knowledge. Key steps:
+Observation: Notice a phenomenon.
+Question: Ask a testable "why" or "how."
+Hypothesis: Propose a falsifiable explanation.
+Experiment: Design a controlled test.
+Analysis: Quantify results.
+Conclusion: Accept, reject, or refine the hypothesis.
+</define>
+
+<example>
+Medicine (Vaccine Development)
+Observation: People who recover from smallpox don't get it again.
+Question: Can exposure to a weakened virus prevent infection?
+Hypothesis: "Cowpox inoculation (variolation) protects against smallpox."
+Experiment: Edward Jenner inoculates a boy with cowpox, later exposes him to smallpox (1796).
+Result: The boy doesn't get sick.
+Conclusion: Hypothesis supported → vaccines are born.
+</example>
+
+<example>
+Technology (Battery Life)
+Observation: Smartphone batteries drain faster in cold weather.
+Question: Does temperature affect lithium-ion battery performance?
+Hypothesis: "Lower temperatures reduce battery capacity."
+Experiment: Test identical phones at 0°C vs. 25°C while running the same app.
+Result: Cold batteries die 30% faster.
+Conclusion: Hypothesis confirmed → manufacturers warn users.
+</example>
+

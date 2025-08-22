@@ -1,0 +1,35 @@
+<id>
+Opportunity Cost
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Opportunity cost is the value of what you give up when you choose one option over another. It's not just money—it's time, energy, or any resource you could've used differently. 
+Every "yes" means a "no" to something else.
+</define>
+
+<example>
+Field: Personal Finance
+Scenario: You spend $1,000 on a new gaming console instead of investing it in an index fund that could grow 7% annually.
+Using It: List alternatives before spending—could that cash fix a debt (saving interest) or fund a side gig? For big buys, calculate the long-term cost. It shifts you from impulse to strategy.
+</example>
+
+<example>
+Field: Career/Work
+Scenario: You stay in a comfy but stagnant job instead of taking a riskier role with growth potential.
+Using It: Map out what each path offers—stability versus upside. Ask: "What am I missing by staying put?". Test small moves (a side project) to gauge the trade-off without jumping blind. It clarifies when to leap.
+</example>
+
+<example>
+Field: Time Management
+Scenario: You binge a show all weekend instead of visiting a friend or working on a hobby.
+Opportunity Cost: You lose connection (a deeper friendship) or progress (say, finishing a painting worth pride or cash). Time's the currency here.
+Using It: Before committing hours, rank your options—fun, bonding, growth—and pick what aligns with your goals. Block time for what matters (e.g., "Sundays for friends") to avoid defaulting to easy outs. It balances short-term joy with long-term bonds.
+</example>

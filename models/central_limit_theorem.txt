@@ -1,0 +1,34 @@
+<id>
+Central Limit Theorem (CLT)
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A fundamental statistical principle stating that the sampling distribution of the mean of any independent, random variable will be approximately normal (bell-shaped), regardless of the population's distribution, if the sample size is large enough (usually n ≥ 30).
+</define>
+
+<example>
+Quality Control (Manufacturing)
+Scenario: A factory produces light bulbs with a lifespan following a weird, non-normal distribution (e.g., some fail early, most last ~800 hours).
+CLT Application:
+Take multiple samples (e.g., 50 bulbs each) and calculate each sample's average lifespan.
+The distribution of sample means will be ~normal, even if individual lifespans aren't.
+Use: Predict the probability that a batch's average lifespan exceeds 820 hours using the normal curve.
+</example>
+
+<example>
+Political Polling (Elections)
+Scenario: Pollsters want to estimate the % of voters supporting Candidate A, where individual voter preferences are binary (Yes/No).
+CLT Application:
+Survey 1,000 random voters (sample proportion=p).
+Repeat this 100 times; the distribution of p will be normal around the true proportion (*p*).
+Use: Calculate confidence intervals (e.g., "55% ± 3% support") as if data were normal.
+</example>
+

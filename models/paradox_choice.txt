@@ -1,0 +1,30 @@
+<id>
+paradox of choice
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Paradox of Choice is a concept popularized by psychologist Barry Schwartz, suggesting that while having some options is beneficial, too many choices can lead to anxiety, dissatisfaction, and decision paralysis rather than greater happiness or freedom. 
+</define>
+
+<example>
+Consumer Behavior
+Scenario: Shopping for jam in a supermarket.
+Explanation: A study by Sheena Iyengar showed that offering 24 jam varieties attracted attention but led to fewer purchases than offering 6. Customers felt overwhelmed by the options, unsure which to pick, and often walked away empty-handed.
+How It Applies: Too many product choices can paralyze consumers, reducing sales.
+</example>
+
+<example>
+Technology and Entertainment
+Scenario: Picking a movie on a streaming platform.
+Explanation: Platforms like Netflix offer thousands of titles, yet users often scroll endlessly, unable to settle on one. The fear of missing a better movie—or the effort to sift through options—delays enjoyment.
+How It Applies: This "Netflix paralysis" shows how excessive choice in digital media can frustrate users, prompting platforms to use algorithms or curated lists to narrow options.
+</example>
+

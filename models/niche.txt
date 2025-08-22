@@ -1,0 +1,36 @@
+<id>
+niche
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A niche is a specialized segment of a broader environment where an entity (species, business, or individual) thrives by meeting unique needs or exploiting specific resources. It’s about finding an uncontested space where competition is low and adaptation is high.
+</define>
+
+<example>
+Business (Startups)
+Example: Oatly didn't just make "plant milk" - it targeted eco-conscious coffee drinkers, partnering with baristas to dominate oat milk lattes.
+Actionable Insight: Dominate niches first, then expand (e.g., Amazon starting with books).
+</example>
+
+<example>
+Careers (Skill Stacks)
+Example: A "Python programmer + bioinformatics" combo is rarer/more valuable than either skill alone.
+Actionable Insight: Combine 2–3 skills to create a unique professional niche (e.g., "lawyer + blockchain").
+</example>
+
+<example>
+Technology (Software Tools)
+Example: Notion initially targeted tech-savvy teams needing customizable wikis—ignoring casual users until later.
+Actionable Insight: Build for power users first; they'll pull in the masses.
+</example>
+
+
+

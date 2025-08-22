@@ -1,0 +1,34 @@
+<id>
+nudge_theory
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Nudge Theory is a concept from behavioral economics and public policy that focuses on subtle, non-coercive interventions (called "nudges") to influence decisions without restricting freedom of choice. 
+It emphasizes that people are not always rational and are influenced by cognitive biases , defaults , and choice architecture.
+</define>
+
+<example>
+Public Policy: Organ Donation Defaults
+Field : Healthcare/Policy
+Application : Many countries use opt-out organ donation systems (e.g., Spain, Germany) instead of opt-in systems (e.g., the U.S.).
+Nudge : Automatically assume consent for organ donation unless the individual explicitly opts out.
+Effect : Increases participation rates by reducing decision fatigue and leveraging social norms (people are more likely to comply with default options).
+Outcome : Higher organ donation rates, saving more lives.
+</example>
+
+<example>
+Healthcare: Flu Vaccination Campaigns
+Field : Public Health
+Application : Hospitals and clinics use visual nudges (e.g., posters, signage) to encourage flu vaccinations.
+Nudge : Framing the vaccine as a "simple, safe, and effective" choice, often paired with social proof (e.g., "90% of staff get vaccinated").
+Effect : Increases vaccination rates by addressing perceived risk and trust in the process .
+Outcome : Reduced disease spread and hospitalizations during flu seasons.
+</example>

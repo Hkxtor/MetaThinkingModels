@@ -1,0 +1,53 @@
+<id>
+Agent-based modeling
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Agent-Based Modeling (ABM) is a computational problem-solving technique used to simulate the behavior and interactions of autonomous agents (e.g., individuals, organisms, or entities) within a system to understand emergent phenomena at the system level. By simulating interactions over time, ABM reveals how simple individual actions lead to complex, often unpredictable collective outcomes, making it ideal for studying systems where macro-level patterns emerge from micro-level behaviors.
+
+Process:
+Define the problem and system boundaries (e.g., disease spread in a city).
+Specify agents, their attributes, and behavioral rules (e.g., individuals with infection status and movement patterns).
+Set up the environment (e.g., a city grid with hospitals).
+Run simulations, adjusting parameters to explore different scenarios.
+Analyze emergent patterns (e.g., infection waves) to draw insights or test hypotheses.
+</define>
+
+<example>
+Economics: Modeling Financial Market Dynamics
+Problem: Analyze how individual trader behaviors lead to market-wide phenomena like bubbles or crashes.
+ABM Application: An agent-based model simulates a stock market where agents represent traders (e.g., retail investors, hedge funds) with different strategies (e.g., buy low, sell high, follow trends).  
+Agents: Traders with attributes like wealth, risk tolerance, and trading rules (e.g., "buy if price rises 5%," "sell if loss exceeds 10%").  
+Environment: A virtual stock market with price updates based on supply and demand.  
+Rules: Traders react to price changes, news, or other traders' actions, with some following herd behavior or contrarian strategies.  
+Emergence: Simulations reveal how herd behavior leads to price bubbles (e.g., dot-com bubble) or sudden crashes when panic selling spreads.  
+Example: The Santa Fe Institute's market model showed that trend-following traders amplify volatility, producing fat-tailed price distributions observed in real markets.
+Outcome: The institute used ABM insights to recommend circuit breakers (trading halts during extreme volatility), adopted by exchanges like the NYSE. ABM captured emergent market dynamics that traditional equilibrium models missed.
+</example>
+
+<example>
+Urban Planning: Optimizing Traffic Flow
+Problem: Predict how changes to traffic signals or road layouts affect congestion, considering individual driver behaviors.
+ABM Application: An agent-based model simulates traffic, with agents representing vehicles and drivers navigating a city grid.  
+Agents: Vehicles with attributes like speed, destination, and driver type (e.g., aggressive, cautious).  
+Environment: A city map with roads, intersections, and traffic lights.  
+Rules: Drivers follow rules like "accelerate to speed limit," "stop at red lights," or "change lanes to avoid slow traffic," with some randomness to mimic human behavior.  
+Emergence: Simulations show how small changes (e.g., synchronized traffic lights) reduce or worsen congestion, with emergent phenomena like traffic jams or smooth flow.  
+Example: Singapore used ABM to test traffic light timings, finding that adaptive signals (adjusting based on real-time traffic) reduced delays by 20%.
+Outcome: The city implemented ABM-recommended signal adjustments, improving commute times and reducing fuel consumption. ABM allowed planners to test scenarios without real-world disruptions.
+</example>
+
+
+
+
+
+
+

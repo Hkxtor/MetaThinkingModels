@@ -1,0 +1,36 @@
+<id>
+Survivorship bias
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Survivorship bias is a logical error where we focus only on the surviving or successful elements of a group while ignoring those that failed or disappeared, skewing our understanding of what leads to success.
+</define>
+
+<example>
+Field: Business/Entrepreneurship
+Scenario: You read about tech giants like Apple or Amazon and think, "Risk big, win big," ignoring the countless startups that tanked taking similar gambles.
+Bias at Work: Success stories dominate—books, TED Talks, X threads—while failed ventures (90% of startups, per some estimates) fade into obscurity. You overestimate bold moves' odds.
+Using It: Study flops too—dig into why Pets.com or Theranos crashed (overexpansion, fraud). When deciding to launch a business, balance the "go big" hype with data on failure rates. It tempers reckless optimism with reality.
+</example>
+
+<example>
+Field: Health/Fitness
+Scenario: You hear a 90-year-old say, "I smoked daily and I'm fine," and consider ditching healthy habits, missing the millions who didn't make it to 90.
+Bias at Work: Survivors get the mic—long-lived smokers or bacon lovers—while the graveyard of early deaths (heart disease, cancer) stays silent. It distorts lifestyle risks.
+Using It: Look at the whole pool—stats show smoking cuts life expectancy by 10 years on average (CDC data). For decisions like diet or exercise, prioritize broad evidence (e.g., studies on longevity) over outlier anecdotes. It keeps you grounded in probabilities.
+</example>
+
+<example>
+Field: History/Life Lessons
+Scenario: Old buildings stand tall, and you think, "They don't make them like they used to," forgetting the shoddy ones that collapsed or got torn down.
+Bias at Work: Only the sturdy survive—cathedrals, pyramids—while weak structures don't, making the past seem better built. It's why we romanticize "golden ages."
+Using It: Seek the lost data—read about failed projects or everyday life then (e.g., medieval sanitation horrors). For decisions like buying a house or car, don't assume old equals durable—check maintenance records, not just what's still around. It cuts through nostalgia.
+</example>

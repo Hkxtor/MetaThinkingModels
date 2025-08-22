@@ -1,0 +1,36 @@
+<id>
+bell curve/normal distribution
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The bell curve, or normal distribution, is a symmetric probability distribution where most data points cluster around the mean (average), with fewer observations at the extremes. Its shape resembles a bell. Human Height, Test Scores, Blood Pressure, Manufacturing Tolerances, IQ Scores all fit this distribution.
+</define>
+
+<example>
+Field: Education (Grading on a Curve)
+Use Case: Adjusting test scores so the class fits a normal distribution.
+Example: If the average exam score is 60/100, curving grades ensures only 2.5% get A's (top 2σ).
+Decision Impact: Fairer ranking when tests are too hard/easy.
+</example>
+
+<example>
+Field: Social Science (Public Policy)
+Use Case: Designing for the "average" person (e.g., ergonomic chairs).
+Example: Airplane seat widths target the middle 68% of hip sizes.
+Decision Impact: Balances cost and comfort for most (but ignores extremes).
+</example>
+
+<example>
+Field: Business (Quality Control)
+Use Case: Monitoring product weights in a factory.
+Example: If cereal boxes average 500g, reject batches where >3% fall outside 490–510g (3σ).
+Decision Impact: Reduces waste and customer complaints.
+</example>

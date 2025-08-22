@@ -1,0 +1,37 @@
+<id>
+economies of scale
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Economies of scale is an economic principle where the cost per unit of production decreases as the volume of production increases. 
+This happens because fixed costs—such as machinery, infrastructure, or administrative expenses—are spread over a larger number of units.
+</define>
+
+<example>
+Manufacturing
+Example: Automobile production
+How It Works: A car manufacturer producing 1,000 vehicles per month has high fixed costs for factory space and machinery. If production rises to 10,000 vehicles, these costs are spread over more cars, lowering the cost per vehicle. Bulk purchases of materials like steel also reduce expenses.
+Result: Larger manufacturers can offer lower prices or enjoy higher profit margins than smaller competitors.
+</example>
+
+<example>
+Technology
+Example: Software development
+How It Works: Developing software involves significant fixed costs, such as programmer salaries and testing. Once created, the software can be sold to millions of users with little additional cost. The more users, the lower the cost per user.
+Result: Companies like Microsoft benefit as their per-user costs drop with widespread adoption.
+</example>
+
+<example>
+Agriculture
+Example: Industrial farming
+How It Works: Large farms invest in advanced machinery (e.g., automated harvesters) and technology (e.g., precision farming tools) that smaller farms can’t afford. This boosts output per acre and reduces labor costs.
+Result: Larger farms produce food more cheaply per unit, enabling competitive pricing.
+</example>

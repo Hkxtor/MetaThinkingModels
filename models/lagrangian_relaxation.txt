@@ -1,0 +1,32 @@
+<id>
+Lagrange Relaxation
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Lagrange Relaxation is an optimization technique used to solve complex problems—typically constrained ones—by simplifying them into more manageable forms. It's rooted in mathematical programming, particularly for problems like integer programming or combinatorial optimization (e.g., scheduling, routing), where constraints make finding the best solution computationally hard. The core idea: instead of enforcing all constraints directly, "relax" some of them by moving them into the objective function with penalty terms (Lagrange multipliers), then solve the easier problem and adjust iteratively.
+</define>
+
+<example>
+Engineering - Supply Chain Management (Inventory Allocation)  
+Scenario: A company needs to distribute 1000 units of a product across 5 warehouses to minimize shipping costs, but each warehouse has a capacity limit (e.g., 300 units max) and demand must be met exactly.
+Lagrange Relaxation Use: Relax the capacity constraints by adding them to the cost function with multipliers (λ for each warehouse). Solve the unconstrained problem (assign units to minimize shipping cost plus penalties for overcapacity). Adjust λ until allocations stay near limits, then round to feasible integers.
+Outcome: Finds a near-optimal distribution—say, 250–300 units per warehouse—balancing cost and capacity without testing all combinations.
+</example>
+
+<example>
+Economics - Resource Allocation (Market Design)  
+Scenario: A government allocates water rights to 10 farmers to maximize crop yield, constrained by a total water limit (e.g., 1000 gallons) and individual usage caps.
+Lagrange Relaxation Use: Relax the total water limit into the yield function with a multiplier (μ). Optimize each farmer's usage separately, balancing yield against a water "cost." Adjust μ until total usage nears 1000 gallons, then cap individual excesses.
+Outcome: Allocates water—e.g., 80–120 gallons per farmer—maximizing yield while respecting the limit, faster than solving the full constrained system.
+</example>
+
+
+

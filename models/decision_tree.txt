@@ -1,0 +1,38 @@
+<id>
+Decision Tree
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A decision tree is a supervised machine learning algorithm used for classification and regression tasks. It models decisions by splitting data into branches based on feature values, leading to leaf nodes (final predictions).
+</define>
+
+<example>
+Healthcare (Disease Diagnosis)
+Problem: Predict whether a patient has diabetes.
+Features: Blood sugar level, BMI, age.
+Tree Splits:
+Root: *Glucose > 120 mg/dL?* → Yes/No branches.
+Next: BMI > 30? → Further splits.
+Output: "Diabetic" or "Non-diabetic" at leaves.
+Use: Helps doctors prioritize high-risk patients.
+</example>
+
+<example>
+Finance (Loan Approval)
+Problem: Should a bank approve a loan?
+Features: Credit score, income, debt-to-income ratio.
+Tree Splits:
+Root: Credit score > 700? → Yes/No.
+Next: Income > $50k? → Final decision.
+Output: "Approve" or "Reject."
+Use: Automates risk assessment while ensuring transparency.
+</example>
+

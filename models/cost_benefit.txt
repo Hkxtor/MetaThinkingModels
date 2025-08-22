@@ -1,0 +1,45 @@
+<id>
+Cost benefit analysis
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Cost benefit analysis: A systematic approach to comparing the total expected costs and total expected benefits of a decision, project, or policy, often quantified in monetary terms. The goal is to determine whether the benefits outweigh the costs (and by how much).
+</define>
+
+<example>
+Business (Automation Investment)
+Scenario: A factory debates replacing workers with robots.
+Costs:
+Robots + installation ($2M upfront).
+Training staff ($200K).
+Higher energy/maintenance ($50K/year).
+Benefits:
+Labor cost savings ($1M/year in wages/benefits).
+Fewer defects (saves $300K/year in waste).
+Faster production (extra $500K/year in revenue).
+CBA Result:
+Payback period = ~2 years; NPV positive - Worth investing.
+</example>
+
+<example>
+Healthcare (Vaccination Program)
+Scenario: A government evaluates a free measles vaccination campaign.
+Costs:
+Vaccine production & distribution ($100M).
+Public education ($5M).
+Side-effect treatments ($2M).
+Benefits:
+Reduced hospitalizations (saves $200M in treatment costs).
+Increased workforce productivity ($150M from fewer sick days).
+Lives saved (estimated value: $300M using statistical life valuation).
+CBA Result:
+Benefit-Cost Ratio = (200M+150M+300M)/(100M+5M+2M)≈6:1 - Highly favorable 
+</example>

@@ -1,0 +1,33 @@
+<id>
+falsification
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The key principle of falsification: "For a claim to be scientific, there must be a way to prove it wrong."
+</define>
+
+<example>
+Hypothesis: "All swans are white."
+Falsification Test: Search for a non-white swan (e.g., finding a black swan in Australia disproves the hypothesis).
+Outcome: The hypothesis is falsifiable and thus scientific.
+</example>
+
+<example>
+Claim: "Eating fat makes you gain weight."
+Falsification Test: Observe populations on high-fat, low-carb diets (e.g., ketogenic diets).
+Outcome: If weight loss occurs, the claim is partially falsified (calories matter more than fat alone).
+</example>
+
+<example>
+Assumption: "Our product is successful because of its low price."
+Falsification Test: Raise the price—if sales stay strong, price isn’t the key driver.
+Outcome: Reveals other factors (e.g., brand loyalty, quality).
+</example>

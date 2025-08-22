@@ -1,0 +1,36 @@
+<id>
+regression to the mean
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Regression to the Mean is a statistical phenomenon where extreme outcomes (high or low) tend to move closer to the average over time. It occurs because extreme performances often involve luck or temporary factors that fade with repetition.
+"What goes up must come down (toward average), and vice versa."
+</define>
+
+<example>
+Field: Sports (Performance Variability)
+Example: A rookie athlete scores 50 points in a game (far above average). The next game, they score 20, not because they "choked," but because 50 was a lucky outlier.
+Decision Impact: Coaches avoid overreacting to hot/cold streaks.
+Scouts evaluate long-term averages, not single games.
+</example>
+
+<example>
+Field:Parenting (Praise/Punishment)
+Example: A child behaves terribly one day and gets scolded. The next day, they're better - not due to the scolding, but because behavior naturally fluctuates.
+Decision Impact: Avoid attributing normal variation to rewards/punishments.
+</example>
+
+<example>
+Field: Business (Stock Market)
+Example: A stock surges 100% in a month. Later, it drops 30% - not due to bad news, but because its initial rise was unsustainably steep.
+Decision Impact: Investors rebalance portfolios to avoid chasing overperformers.
+</example>
+

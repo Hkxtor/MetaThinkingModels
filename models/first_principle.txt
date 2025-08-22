@@ -1,0 +1,44 @@
+<id>
+first principle thinking
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+First-principles thinking is a problem-solving approach where you strip away all assumptions and conventions, then rebuild your understanding from the ground up using fundamental truths. 
+Instead of relying on analogies or "how things are usually done," you ask: "What are the irreducible facts?"
+Elon Musk: "Boil things down to their fundamental truths and reason up from there."
+</define>
+
+<example>
+SpaceX: Cheap Rockets
+Assumption: "Rockets cost $65M (market price)."
+First Principles:
+What's a rocket made of? Aluminum, titanium, copper, fuel.
+Raw materials cost ~2% of the rocket's price.
+Solution: Build reusable rockets in-house (cutting 90% of costs).
+</example>
+
+<example>
+Moderna’s mRNA Vaccines
+Assumption: "Vaccines take 10 years to develop."
+First Principles:
+What's a vaccine? Instructions to teach cells to fight viruses.
+Can we deliver mRNA (instructions) directly?
+Solution: Skip live viruses, use synthetic mRNA (COVID-19 vaccine in <1 year).
+</example>
+
+<example>
+Airbnb: Affordable Travel
+Assumption: "People only rent hotels."
+First Principles:
+What do travelers need? A safe, cheap place to sleep.
+What do homeowners have? Extra space.
+Solution: Connect them directly (bypassing hotels).
+</example>

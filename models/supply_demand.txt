@@ -1,0 +1,28 @@
+<id>
+supply and demand
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Supply and demand is a foundational economic concept that explains how prices are determined by the balance between how much of something is available (supply) and how much people want it (demand). 
+When demand exceeds supply, prices rise; When supply outstrips demand, prices drop. 
+</define>
+
+<example>
+Field: Personal Finance/Shopping
+Scenario: You want a new phone. During a holiday sale, supply's high (stores stock up), demand spikes but spreads out—prices dip. Post-sale, supply shrinks, demand holds—prices climb.
+Using It: Time purchases—buy when supply peaks (sales, off-season) or demand dips (midweek flights). Decide: "Is this scarce now, or can I wait for a glut?" It saves cash—like $200 on that phone.
+</example>
+
+<example>
+Field: Career/Job Market
+Scenario: Software engineers are in demand (tech boom), but supply's tight (few skilled coders)—salaries soar. Meanwhile, retail jobs have high supply (many workers), low demand (automation)—wages stagnate.
+Using It: Pick skills where demand outpaces supply—learn AI, not typewriter repair. Decide: "Where's the shortage I can fill?" It guides you to a $100K gig over a $30K rut.
+</example>

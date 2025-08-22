@@ -1,0 +1,50 @@
+<id>
+SWOT analysis
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+SWOT Analysis is a strategic planning tool used to evaluate the Strengths, Weaknesses, Opportunities, and Threats associated with a project, organization, or situation. It provides a structured framework to assess internal factors (Strengths and Weaknesses) and external factors (Opportunities and Threats) to inform decision-making, strategy development, or problem-solving.
+</define>
+
+<example>
+Business: Starbucks (Retail/Coffee Industry)
+Starbucks used SWOT analysis to evaluate its global expansion strategy.  
+Strengths: Strong brand recognition, loyal customer base, and extensive global store network.  
+Weaknesses: High prices compared to competitors, dependence on the U.S. market for revenue.  
+Opportunities: Expanding into emerging markets like India and China, introducing plant-based menu options to attract health-conscious consumers.  
+Threats: Intense competition from local coffee chains and fast-food brands, rising costs of coffee beans due to climate change.
+Application: Starbucks leveraged its brand strength to enter new markets while addressing weaknesses by diversifying its menu and reducing reliance on premium pricing.
+</example>
+
+<example>
+Education: A Public School District
+A school district applied SWOT analysis to address declining enrollment and academic performance.  
+Strengths: Experienced teachers, strong extracurricular programs, and community support.  
+Weaknesses: Aging school facilities, limited technology integration in classrooms.  
+Opportunities: State funding for STEM programs, growing interest in online learning platforms.  
+Threats: Competition from charter and private schools, budget cuts due to local tax revenue declines.
+Application: The district invested in technology upgrades and marketed its extracurricular strengths to attract students while lobbying for state funding.
+</example>
+
+<example>
+Technology: A Startup Developing AI Software
+A tech startup used SWOT analysis to position itself in the competitive AI market.  
+Strengths: Innovative AI algorithms, agile team, and niche focus on healthcare applications.  
+Weaknesses: Limited brand recognition, reliance on a small number of clients.  
+Opportunities: Increasing demand for AI in healthcare, potential to expand into other industries like finance.  
+Threats: Dominance of large tech companies (e.g., Google, Microsoft), rapid changes in AI regulations.
+Application: The startup targeted healthcare partnerships to build credibility and diversified its client base to reduce dependency while monitoring regulatory trends.
+</example>
+
+
+
+
+

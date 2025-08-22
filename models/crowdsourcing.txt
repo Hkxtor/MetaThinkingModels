@@ -1,0 +1,33 @@
+<id>
+crowdsourcing
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Crowdsourcing is a method of problem-solving or task completion that involves outsourcing work to a large, often undefined group of people—typically via an open call—rather than relying on a small, designated team. 
+It leverages the collective intelligence, skills, or resources of a crowd, often facilitated by digital platforms.
+</define>
+
+<example>
+Technology and Software Development
+Problem: Improving software or fixing bugs quickly.
+Example: GitHub and Open-Source Software – Projects like Linux or Mozilla Firefox rely on crowdsourcing where developers worldwide contribute code, report bugs, or suggest features. Anyone can submit improvements via GitHub, refining the software collaboratively.
+How It Works: Thousands of programmers voluntarily debug or enhance the codebase, accelerating development without a centralized team.
+Outcome: Robust, widely-used software built faster and cheaper than proprietary alternatives.
+</example>
+
+<example>
+Business and Innovation
+Problem: Generating new product ideas or solving design challenges.
+Example: LEGO Ideas – LEGO invites fans to submit and vote on new set designs. If a concept gets 10,000 votes, LEGO considers producing it, crediting the creator (e.g., the Apollo 11 set).
+How It Works: Customers crowdsource creativity, submitting and refining ideas via an online platform.
+Outcome: LEGO taps into consumer ingenuity, producing popular sets while engaging its community.
+</example>
+

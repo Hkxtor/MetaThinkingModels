@@ -1,0 +1,30 @@
+<id>
+Matthew effect
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Matthew Effect describes a phenomenon where initial advantages lead to further cumulative advantages, while initial disadvantages perpetuate further setbacks. Essentially, "the rich get richer, and the poor get poorer."
+</define>
+
+<example>
+Economics & Wealth Inequality
+Wealthy individuals or corporations can invest in assets (stocks, real estate) that generate passive income, increasing their wealth over time. Meanwhile, those with little wealth struggle to save or invest, widening the economic gap.
+</example>
+
+<example>
+Science & Academia
+Famous researchers (e.g., Nobel laureates) receive disproportionate credit for work, while lesser-known scientists may contribute equally but go unrecognized.
+</example>
+
+<example>
+Technology & Social Media
+Popular platforms (e.g., YouTube, Twitter) amplify content from already-famous creators, making it harder for new creators to gain visibility.
+</example>

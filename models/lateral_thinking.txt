@@ -1,0 +1,33 @@
+<id>
+lateral thinking
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Lateral thinking, or thinking out of the box, is a creative problem-solving approach that involves looking at a situation from unconventional angles, challenging assumptions, and stepping outside traditional step-by-step logic.
+It contrasts with "vertical thinking," which follows a linear, sequential path. Lateral thinking seeks to break patterns, generate fresh ideas, and find solutions by reframing problems or combining seemingly unrelated concepts.
+</define>
+
+<example>
+Business and Marketing
+Problem: How to sell more toothpaste?
+Conventional Approach: Improve flavor or advertise whitening benefits.
+Lateral Thinking: A toothpaste company reimagines the product’s delivery—widening the tube's opening. Customers use more per squeeze, increasing consumption without changing habits.
+How It Works: Instead of focusing on the product or consumer behavior, the solution shifts to packaging, bypassing traditional marketing assumptions.
+</example>
+
+<example>
+Engineering
+Problem: How to keep a skyscraper stable in high winds?
+Conventional Approach: Reinforce the structure with more steel or concrete.
+Lateral Thinking: The Taipei 101 building's designers install a massive tuned mass damper—a giant pendulum that sways opposite to wind forces. Inspired by how a child's swing counters motion, they adapt a simple physics trick to a complex problem.
+How It Works: Rather than bulking up the building, they rethink stability as a dynamic balance, sidestepping traditional brute-force methods.
+</example>
+

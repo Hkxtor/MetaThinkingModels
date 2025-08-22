@@ -1,0 +1,29 @@
+<id>
+analogy and transfer
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The thinking model of Analogy and Transfer is a cognitive approach that involves drawing comparisons between two seemingly different domains or situations (analogy) and applying knowledge, skills, or solutions from one context to another (transfer). 
+</define>
+
+<example>
+Engineering: Velcro Invention
+Problem: How to create a simple, reusable fastening system?
+Analogy: Swiss engineer George de Mestral observed burrs sticking to his dog's fur via tiny hooks catching on loops in the fur.
+Transfer: He transferred this natural mechanism to a synthetic design, creating Velcro—a system of hooks and loops for fastening. The analogy between burrs and fabric led to a practical engineering solution.
+</example>
+
+<example>
+Computer Science: Neural Networks and the Brain
+Problem: How to design systems that learn and adapt like humans?
+Analogy: Computer scientists drew an analogy between the brain's neurons and interconnected nodes in a network.
+Transfer: This led to the development of artificial neural networks, where knowledge of biological neurons (signal transmission, weighting) was transferred to create algorithms for machine learning, now foundational in AI.
+</example>

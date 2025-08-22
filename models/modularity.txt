@@ -1,0 +1,32 @@
+<id>
+modularity
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Modularity is the design principle of breaking a complex system into smaller, self-contained units (modules) that can be developed, replaced, or upgraded independently while maintaining seamless integration with the whole.
+</define>
+
+<example>
+Technology & Software
+Example: Microservices Architecture
+Instead of monolithic apps (where all code is interdependent), systems are split into modular services (e.g., user authentication, payment processing).
+Why? If the payment module fails, the rest of the app keeps running.
+Real-world: Netflix uses microservices to stream videos reliably to 200M+ users.
+</example>
+
+<example>
+Urban Planning & Infrastructure
+Example: Prefabricated Housing
+Buildings are assembled from factory-made modules (walls, floors).
+Why? Faster construction, lower cost, and easier repairs.
+Real-world: Singapore uses modular housing to address land scarcity.
+</example>
+

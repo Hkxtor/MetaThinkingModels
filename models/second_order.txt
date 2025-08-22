@@ -1,0 +1,33 @@
+<id>
+second-order thinking
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Second-order thinking is the practice of considering not just the immediate consequences of an action (first-order effects), but also the subsequent, longer-term, or indirect consequences (second-order effects). It's about asking: "And then what?"
+</define>
+
+<example>
+Action: A government prints more money to boost the economy.
+First-Order Effect: More cash circulates; short-term spending rises.
+Second-Order Effect: Inflation spikes, eroding savings and trust in currency.
+</example>
+
+<example>
+Action: Introduce rabbits to Australia for hunting.
+First-Order Effect: Hunters enjoy new game.
+Second-Order Effect: Rabbits overbreed, destroying crops and ecosystems.
+</example>
+
+<example>
+Action: Optimize algorithms for "engagement."
+First-Order Effect: Users spend more time on the platform.
+Second-Order Effect: Polarization, misinformation, and mental health crises.
+</example>

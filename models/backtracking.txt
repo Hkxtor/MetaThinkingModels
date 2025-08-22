@@ -1,0 +1,31 @@
+<id>
+backtracking
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Backtracking, or depth first search (DFS), is a systematic recursive algorithmic technique for solving problems by exploring possible solutions incrementally and abandoning ("backtracking") partial candidates as soon as they are determined to be invalid.
+</define>
+
+<example>
+Puzzle Solving (Sudoku, Crosswords, N-Queens)
+How it works:
+Try filling a cell with a valid number (1-9). If a conflict arises, backtrack and try the next possible number. Repeat until the grid is solved or all options are exhausted.
+Why backtracking?
+Exhaustive trial-and-error is inefficient; backtracking prunes invalid paths early.
+</example>
+
+<example>
+DNA Sequence Alignment (Bioinformatics)
+How it works:
+Aligning gene sequences involves testing possible matches with gaps/mutations. If a partial alignment leads to biologically implausible results, backtrack and try a different gap penalty or substitution.
+Why backtracking?
+Enumerating all alignments is computationally infeasible; backtracking optimizes the search.
+</example>

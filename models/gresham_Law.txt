@@ -1,0 +1,28 @@
+<id>
+Gresham's Law
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Gresham's Law states that "bad money drives out good" when two forms of currency circulate simultaneously: people hoard the more valuable money and spend the less valuable one, pushing the "good" money out of circulation.
+</define>
+
+<example>
+Digital Media (Misinformation)
+Example: On social media, sensationalist "bad" content (fake news, clickbait) spreads faster than nuanced "good" content because it's more engaging.
+Decision Impact: Platforms must algorithmically reward accuracy (e.g., Twitter's community notes) to prevent misinformation from dominating.
+</example>
+
+<example>
+Environmental Policy (Carbon Credits)
+Example: If "weak" carbon credits (easily gamed) are treated equally with "strong" ones, companies will buy the weak ones, undermining emissions goals.
+Decision Impact: Regulators must standardize credit quality to avoid a "race to the bottom."
+</example>
+

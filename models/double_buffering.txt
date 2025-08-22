@@ -1,0 +1,36 @@
+<id>
+double_buffering
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Double buffering—the technique of using two buffers to enable smooth transitions while one is being updated—has real-world analogs beyond software (e.g., graphics rendering).
+</define>
+
+<example>
+Problem: Screen flickering or tearing occurs when a display renders frames while they're being updated (e.g., in games or animations).
+Double Buffering Solution:
+Two framebuffers (memory regions) are used:
+Front buffer: Currently displayed on screen.
+Back buffer: Next frame is drawn here in the background.
+When the back buffer is ready, they swap roles instantly (vs. drawing directly to the screen).
+Why It Works:
+Eliminates visual artifacts by decoupling rendering from display.
+</example>
+
+<example>
+Theater Stage Design (Live Performances)
+Problem: Scene changes between acts must be seamless to avoid interrupting the audience's immersion.
+Double Buffering Solution:
+Two rotating stages or sliding backdrops are used.
+While one scene is active, the next is pre-assembled on a hidden buffer (e.g., a turntable or secondary stage).
+At the transition, the buffers "swap" instantly (e.g., rotating the turntable).
+Example: Broadway musicals like Les Misérables use revolving stages to switch between barricade scenes smoothly.
+</example>

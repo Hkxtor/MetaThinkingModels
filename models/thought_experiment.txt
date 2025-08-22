@@ -1,0 +1,36 @@
+<id>
+thought experiment
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A thought experiment is a mental exercise that explores hypothetical scenarios to test ideas, reveal paradoxes, or solve problems without physical experimentation. By stripping away real-world constraints, it allows us to isolate variables, challenge assumptions, and refine theories.
+</define>
+
+<example>
+Physics (Einstein's Relativity)
+Experiment: "What if you chased a light beam at its own speed?" (Einstein, age 16).
+Insight: This led to the realization that light's speed is constant, a cornerstone of special relativity.
+Problem Solved: Reconciling Newtonian mechanics with electromagnetism.
+</example>
+
+<example>
+Ethics (The Trolley Problem)
+Scenario: "Should you pull a lever to divert a runaway trolley, killing one person to save five?"
+Insight: Exposes tensions between utilitarianism ("greater good") and individual rights.
+Application: Used to debate AI ethics, self-driving car algorithms, and legal principles.
+</example>
+
+<example>
+Computer Science (The Chinese Room Argument)
+Scenario: "Can a person following instructions in a book (without understanding Chinese) simulate intelligence?" (John Searle).
+Insight: Challenges whether AI can ever truly "understand" or just mimic behavior.
+Impact: Shapes debates about consciousness in machine learning.
+</example>

@@ -1,0 +1,37 @@
+<id>
+rent seeking
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Rent seeking is an economic concept where individuals or entities expend resources (e.g., time, money, or influence) to gain wealth or benefits without creating new value or contributing to productivity. 
+Instead of generating wealth through innovation or labor, rent seekers aim to capture existing wealth by manipulating systems, securing privileges, or exploiting regulations. 
+</define>
+
+<example>
+Politics and Government
+Scenario: Lobbying for subsidies or tax breaks.
+Explanation: A corporation spends millions lobbying for a government subsidy (e.g., for renewable energy or agriculture). If successful, it gains profits without necessarily improving efficiency or output—merely redirecting taxpayer money to itself.
+How It Applies: The resources spent on lobbying don't create new wealth; they secure a slice of existing public funds. 
+</example>
+
+<example>
+Real Estate
+Scenario: Property owners pushing for zoning restrictions.
+Explanation: Homeowners in a wealthy area lobby to limit new housing construction (e.g., through restrictive zoning laws). This keeps property values high by artificially restricting supply, benefiting existing owners at the expense of potential buyers or renters.
+How It Applies: Rent seeking explains housing shortages and inflated prices in cities—elites protect their wealth rather than allowing market-driven growth.
+</example>
+
+<example>
+Academia and Intellectual Property
+Scenario: Extending patent durations.
+Explanation: A pharmaceutical company lobbies to extend its drug patent beyond the standard term. This delays generic competition, allowing it to maintain high prices without innovating further.
+How It Applies: Rent seeking reveals why some industries prioritize legal maneuvers over R&D—securing monopoly rents trumps creating new value, slowing progress in affordable medicine.
+</example>

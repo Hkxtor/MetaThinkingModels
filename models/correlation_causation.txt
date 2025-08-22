@@ -1,0 +1,42 @@
+<id>
+correlation and causation
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Correlation means two variables change together, but it does not imply that one causes the other.
+Causation means one variable directly affects the other in a cause-and-effect relationship.
+Key Difference: Just because two things happen together doesn't mean one causes the other. 
+Mistaking correlation for causation can lead to flawed decisions.
+</define>
+
+<example>
+Medicine & Public Health
+Observation: Ice cream sales and drowning deaths both increase in summer (positive correlation).
+Misinterpretation: "Eating ice cream causes drowning."
+Reality: A third factor—hot weather—leads to more swimming (increasing drowning risk) and more ice cream consumption.
+Why It Matters: Public safety campaigns should focus on swimming safety, not banning ice cream.
+</example>
+
+<example>
+Economics & Business
+Observation: Companies that spend more on advertising tend to have higher sales (positive correlation).
+Misinterpretation: "Advertising always causes higher sales."
+Reality: Successful companies may simply have more money to spend on ads (reverse causality). Or, a strong product drives both ad spending and sales.
+Why It Matters: A startup blindly increasing ad budgets without product quality improvements may waste money.
+</example>
+
+<example>
+Social Science & Education
+Observation: Children who read more books tend to perform better in school (positive correlation).
+Misinterpretation: "Reading more books directly causes better grades."
+Reality: Children from wealthier families may have more access to books and better tutors, parental support, or schools (confounding variables).
+Why It Matters: Simply distributing books without addressing other educational inequalities may not boost performance.
+</example>

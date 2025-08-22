@@ -1,0 +1,33 @@
+<id>
+availability heuristic
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The availability heuristic is a mental shortcut where people judge the likelihood or importance of something based on how easily examples come to mind. Vivid, recent, or emotionally charged memories distort our perception of reality.
+</define>
+
+<example>
+Media-Driven Fear (Shark Attacks vs. Heart Disease)
+How It Works: News sensationalizes shark attacks, making them feel frequent. In reality, heart disease kills 1,000x more people.
+Actionable Insight: Check statistics before panicking. Limit exposure to alarmist media.
+</example>
+
+<example>
+Social Judgments (Stereotypes)
+How It Works: A few viral videos of rude tourists make people assume an entire nationality is impolite.
+Actionable Insight: Seek counterexamples to combat generalizations.
+</example>
+
+<example>
+Investment Choices (Recent Market Crashes)
+How It Works: After a stock market crash, investors avoid equities because the memory is fresh—even though markets usually recover.
+Actionable Insight: Rely on historical data, not recency bias.
+</example>

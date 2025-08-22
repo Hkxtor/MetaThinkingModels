@@ -1,0 +1,31 @@
+<id>
+externality
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Externality refers to a cost or benefit incurred by a third party who did not choose to incur that cost or benefit. It occurs when the actions of individuals or firms have unintended effects on others, which are not reflected in market prices. Externalities can be positive (beneficial) or negative (harmful).
+</define>
+
+<example>
+Environmental Economics (Negative Externality)
+Example: Air pollution from a factory.
+The factory produces goods but emits harmful pollutants, affecting nearby residents' health and the environment.
+The factory does not pay for the damage caused, while society bears the cost (medical expenses, reduced air quality).
+Solution: Government may impose a carbon tax or emission regulations to internalize the externality.
+</example>
+
+<example>
+Technology & Innovation (Positive Externality)
+Example: Research and Development (R&D) in renewable energy.
+A company investing in solar panel technology may develop breakthroughs that benefit the entire industry.
+Other firms can build on this knowledge without paying for the initial research.
+Solution: Governments may offer patents (temporary monopolies) or subsidies to incentivize innovation.
+</example>

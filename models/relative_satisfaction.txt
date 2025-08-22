@@ -1,0 +1,28 @@
+<id>
+relative satisfaction
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Relative satisfaction refers to the idea that our sense of contentment or happiness isn't absolute, it's shaped by comparison to others, past experiences, or expectations rather than an objective standard.
+</define>
+
+<example>
+Field: Personal Finance
+Scenario: You earn $80,000 a year and feel good until you learn your friend makes $120,000. Suddenly, your salary feels inadequate.
+Avoiding Mistakes: Focus on your own goals (e.g., saving for a house) rather than benchmarking against others. Track your net worth over time, compare to your past self, not your friend's paycheck. 
+</example>
+
+<example>
+Field: Health and Fitness
+Scenario: You start running and lose 10 pounds, but feel discouraged seeing gym buffs with chiseled physiques.
+Avoiding Mistakes: Set personal baselines, track your own runs or lifts rather than eyeing the ripped guy. Celebrate relative gains (10 pounds is huge compared to zero!) to stay motivated without burnout.
+</example>
+

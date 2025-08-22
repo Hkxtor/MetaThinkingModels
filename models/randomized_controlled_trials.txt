@@ -1,0 +1,37 @@
+<id>
+randomized controlled trials
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A Randomized Controlled Trial (RCT) is a scientific experiment that randomly assigns participants into treatment and control groups to measure the effect of an intervention while minimizing bias. It is the gold standard for establishing cause-and-effect relationships in research.
+Key features: randomization, control group, blinding (single/double-blind).
+</define>
+
+<example>
+Medicine & Healthcare
+Scenario: Testing a new COVID-19 vaccine.
+Method: Thousands of volunteers are randomly assigned to receive either the vaccine (treatment group) or a placebo (control group).
+Outcome: Researchers compare infection rates between the two groups to determine vaccine efficacy.
+</example>
+
+<example>
+Business & Marketing
+Scenario: Testing two versions of an ad (A/B testing).
+Method: A company randomly shows Ad A to half its customers and Ad B to the other half.
+Outcome: Click-through rates (CTR) or sales conversions are compared to determine which ad performs better.
+</example>
+
+<example>
+Education & Policy
+Scenario: Evaluating the impact of free school meals on student performance.
+Method: Schools are randomly selected to provide free meals (treatment), while others continue as usual (control).
+Outcome: Test scores, attendance, and health metrics are compared to assess the program's effectiveness.
+</example>

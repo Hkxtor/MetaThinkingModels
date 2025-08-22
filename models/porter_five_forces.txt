@@ -1,0 +1,41 @@
+<id>
+Porter's five forces
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Porter's Five Forces assess the profitability and competitive intensity of an industry by analyzing five key forces that shape its structure.
+1. Competitive Rivalry: Intensity of competition among existing firms.
+2. Bargaining Power of Suppliers: Ability of suppliers to raise prices or reduce quality.
+3. Bargaining Power of Buyers: Ability of customers to demand lower prices or better service.
+4. Threat of Substitute Products/Services: Risk of customers switching to alternatives.
+5. Threat of New Entrants: Ease with which new competitors can enter the market.
+</define>
+
+<example>
+Smartphone Industry (Apple, Samsung)
+Rivalry: ★★★★★ (Intense – Apple vs. Samsung vs. Xiaomi)
+Supplier Power: ★★★☆☆ (Apple negotiates hard, but depends on TSMC for chips)
+Buyer Power: ★★★★☆ (Consumers have many choices; carriers influence pricing)
+Substitutes: ★★☆☆☆ (Few direct substitutes for smartphones)
+New Entrants: ★☆☆☆☆ (High barriers: R&D costs, patents, brand loyalty)
+Verdict: Moderate profitability due to fierce rivalry and buyer power, but strong brands mitigate threats.
+</example>
+
+<example>
+Coffee Shop Industry (Starbucks, Local Cafés)
+Rivalry: ★★★★☆ (Starbucks vs. Dunkin’ vs. indie shops)
+Supplier Power: ★★☆☆☆ (Many coffee bean suppliers, but Fair Trade can raise costs)
+Buyer Power: ★★☆☆☆ (Low switching costs, but brand loyalty helps Starbucks)
+Substitutes: ★★★★★ (Home brew, energy drinks, tea)
+New Entrants: ★★★☆☆ (Low barriers for indie cafés; high for scaling like Starbucks)
+Verdict: Mixed profitability – branding and location are critical to overcome substitutes.
+</example>
+

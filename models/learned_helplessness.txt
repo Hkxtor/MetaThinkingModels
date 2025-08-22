@@ -1,0 +1,46 @@
+<id>
+learned helplessness
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Learned helplessness is a psychological phenomenon where individuals (or animals) repeatedly exposed to uncontrollable negative events eventually stop trying to avoid them—even when escape or improvement becomes possible. They "learn" that their actions don't matter, leading to passive acceptance of adversity.
+
+How to Apply This Concept to Solve Problems
+Spot the Pattern: Look for red flags.
+Break the Cycle: 
+Control: Offer choices (even small ones) to restore agency.
+Success Proof: Create opportunities for observable wins.
+Reframe Beliefs: Replace "I'm helpless" with "I haven't found the right strategy yet."
+</define>
+
+<example>
+Social Systems: Poverty Traps
+Problem: Communities facing generational poverty may stop seeking opportunities, assuming systemic barriers are unchangeable.
+Solution: Empowerment Programs: Provide tools + visible success stories (e.g., microloans with mentorship).
+Policy Changes: Reduce systemic hurdles (e.g., affordable childcare to enable job training).
+Result: Shifts from "I can’t" to "I have options."
+</example>
+
+<example>
+Mental Health: Depression Cycle
+Problem: A depressed person believes "Nothing I do will make me happier," so they withdraw.
+Solution: Behavioral Activation: Start with tiny, pleasurable actions (e.g., a 5-minute walk).
+Mastery Experiences: Track progress (e.g., a journal of small achievements).
+Result: Challenges the belief that effort is pointless.
+</example>
+
+<example>
+Education: The "Bad at Math" Trap
+Problem: A student fails math tests repeatedly and concludes, "I'm just bad at math," stopping effort.
+Solution: Small Wins: Break problems into tiny steps (e.g., mastering one formula at a time).
+Growth Mindset: Teach that skills improve with practice (e.g., "You haven't mastered it yet").
+Result: The student regains agency and persistence.
+</example>

@@ -1,0 +1,28 @@
+<id>
+Fundamental Attribution Error
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Fundamental Attribution Error (FAE) is a cognitive bias where we overemphasize someone's personality or character as the cause of their behavior while underestimating the role of external circumstances. 
+</define>
+
+<example>
+Field: Education/Parenting
+Scenario: A student fails a test, and the teacher thinks, "They don't care," overlooking a noisy home or no study space.
+Using It: Look beyond the surface—ask the kid (or parent) what's up. For decisions like discipline or extra help, weigh their environment (access to resources?) over assuming disinterest.
+</example>
+
+<example>
+Field: Relationships
+Scenario: Your friend snaps at you, and you decide, "They're selfish," not considering they just got bad news.
+Using It: Pause and probe: "What's going on with them?" Give the benefit of the doubt—assume situation first, not spite. When deciding how to respond (e.g., confront or forgive), factor in their day, not just your hurt. It de-escalates tension.
+</example>
+

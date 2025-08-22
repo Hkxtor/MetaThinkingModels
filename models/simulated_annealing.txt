@@ -1,0 +1,39 @@
+<id>
+simulated annealing
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Simulated Annealing is a randomized algorithm to find a near-optimal solution to complex problems with many possible outcomes—like minimizing cost or maximizing efficiency—where exhaustively testing every option is impractical.
+Here's how it works:
+Start: Pick an initial solution (could be random) and define a "cost" function to evaluate it (e.g., total distance in a route).
+Temperature: Set a high initial "temperature" (a control parameter) that governs exploration.
+Iterate: Randomly tweak the current solution. If the new solution is better (lower cost), accept it. If it's worse, accept it anyway with a probability based on the temperature and cost difference—higher temperature means more willingness to accept "bad" moves.
+Cool Down: Gradually lower the temperature, reducing the chance of accepting worse solutions.
+Stop: End when the temperature is near zero or a time limit is hit, settling on a solution.
+The magic is in the early chaos—high temperature lets it jump out of local optima (subpar solutions) to explore broadly—while the cooling phase hones in on a global optimum (or close to it). It's a balance of exploration (random leaps) and exploitation (refinement)
+</define>
+
+<example>
+Engineering (Circuit Design)  
+Scenario: An engineer designs a microchip, placing components to minimize wire length and heat, a problem with billions of layouts.
+Simulated Annealing Use: Begin with a random layout. Move a component or swap two (tweak), measure wire length and heat (cost). Accept improvements; early on, tolerate worse layouts to explore. Cool down to settle on a compact, cool design.
+Outcome: Produces a practical chip layout—maybe not the absolute best, but close—balancing performance and production feasibility.
+</example>
+
+<example>
+Machine Learning (Neural Network Training)  
+Scenario: A data scientist tunes a neural network's weights to minimize prediction error, but the error surface has many local minima.
+Simulated Annealing Use: Initialize weights randomly. Perturb them slightly (tweak), compute the error (cost). Accept lower errors; early on, allow higher errors to leap past shallow minima. Cool to converge on a strong model.
+Outcome: Trains a network that generalizes well—random early moves dodge overfitting to quirks, landing on a robust solution.
+</example>
+
+
+

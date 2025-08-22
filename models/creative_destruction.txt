@@ -1,0 +1,31 @@
+<id>
+Creative destruction
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+business
+</field>
+
+<define>
+Creative destruction is the process where innovation dismantles old systems, industries, or ways of doing things to make room for something new and better. 
+</define>
+
+<example>
+Field: Technology/Business
+Scenario: Streaming services like Netflix killed Blockbuster. Video rentals couldn't compete with on-demand digital access.
+Creative Destruction at Work: The old model (physical stores, late fees) got torched by a cheaper, convenient alternative. Blockbuster's 9,000 stores in 2004 shrank to zero by 2014, while streaming now dominates.
+Using It: Spot trends early—when picking a career or investment, ask: "Is this field ripe for disruption?". Pivot toward the new (learn coding, not typewriter repair) instead of clinging to fading giants.
+</example>
+
+<example>
+Field: Arts/Culture
+Scenario: Digital music platforms like Spotify upended CDs and record stores. Artists now drop singles online, not full albums in shops.
+Creative Destruction at Work: The physical music industry crumbled—Tower Records went bust in 2006—while streaming hit 700 million users by 2023. Creation shifted to playlists and direct fan access.
+Using It: In creative pursuits, don't cling to old mediums—paint on canvas if you want, but test digital tools or TikTok for reach. Decide to ditch what's dying for what's emerging. It's about riding the wave.
+</example>
+
+

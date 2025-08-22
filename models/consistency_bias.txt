@@ -1,0 +1,34 @@
+<id>
+consistency bias
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Consistency bias, is about sticking to past beliefs, actions, or statements to avoid looking inconsistent, either to yourself or others, because changing course feels uncomfortable or threatens your self-image. 
+It's about maintaining a coherent narrative, often at the cost of accuracy.
+</define>
+
+<example>
+Field: Business/Entrepreneurship
+Scenario: A startup founder pours money into a failing product because they've publicly hyped it as "the future." They ignore user feedback showing it's a dud.
+Avoiding It: Set clear exit criteria upfront (e.g., "If we don't hit 10K users by Q2, we rethink”). Admit "I was wrong" early to save resources.
+</example>
+
+<example>
+Field: Relationships
+Scenario: You've told everyone your partner is "the one", but over time, red flags (like constant arguments) pile up. You stay anyway, defending the choice.
+Avoiding It: Check in with yourself privately - write down what's working versus what's not, free of the "I said they're perfect" lens. Talk to a trusted friend who'll call it like they see it, not just nod along. Be willing to shift your story if the facts do.
+</example>
+
+<example>
+Field: Education/Learning
+Scenario: A student insists they're "bad at math" because they struggled early on, so they stop trying, even when tutoring shows they can improve.
+Avoiding It: Track progress objectively—log test scores or problem-solving wins to see improvement over time. Reframe the story: "I'm learning," not "I'm bad". Small wins dismantle the old label.
+</example>

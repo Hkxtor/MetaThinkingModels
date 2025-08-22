@@ -1,0 +1,62 @@
+version: '3.8'
+
+services:
+  thinking-models:
+    build: .
+    container_name: thinking-models-app
+    ports:
+      - "8000:8000"
+    environment:
+      # Required: Set your LLM API URL
+      - LLM_API_URL=${LLM_API_URL}
+      
+      # Optional: Set your API key if required
+      - LLM_API_KEY=${LLM_API_KEY}
+      
+      # Optional: Configure model settings
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-gpt-3.5-turbo}
+      - LLM_TEMPERATURE=${LLM_TEMPERATURE:-0.7}
+      - LLM_MAX_TOKENS=${LLM_MAX_TOKENS:-2000}
+      
+      # Application settings
+      - THINKING_MODELS_DIR=models
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    volumes:
+      # Optional: Mount custom models directory
+      # - ./custom-models:/app/models:ro
+      
+      # Optional: Mount logs directory
+      - ./logs:/app/logs
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    networks:
+      - thinking-models-network
+
+  # Optional: Add nginx reverse proxy for production
+  # nginx:
+  #   image: nginx:alpine
+  #   container_name: thinking-models-nginx
+  #   ports:
+  #     - "80:80"
+  #     - "443:443"
+  #   volumes:
+  #     - ./nginx.conf:/etc/nginx/nginx.conf:ro
+  #     - ./ssl:/etc/nginx/ssl:ro
+  #   depends_on:
+  #     - thinking-models
+  #   restart: unless-stopped
+  #   networks:
+  #     - thinking-models-network
+
+networks:
+  thinking-models-network:
+    driver: bridge
+
+volumes:
+  logs:
+    driver: local

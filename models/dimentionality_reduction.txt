@@ -1,0 +1,29 @@
+<id>
+dimensionality reduction
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Dimensionality reduction is a technique used to simplify complex datasets by reducing the number of features or variables while preserving the most important information. It transforms high-dimensional data—where each feature represents a dimension—into a lower-dimensional space. 
+</define>
+
+<example>
+Finance: Identifying Key Market Drivers
+Problem: Financial datasets often include numerous variables, such as stock prices and economic indicators, making it challenging to pinpoint the most influential factors affecting markets.
+Solution: Dimensionality reduction isolates the most significant variables, simplifying analysis and decision-making.
+Example: In portfolio management, PCA can reduce a large set of asset returns to a few principal components that explain most of the variance. These might represent market-wide factors like interest rates or sector trends, allowing analysts to focus on what truly drives performance.
+</example>
+
+<example>
+Image Processing: Image Compression
+Problem: High-resolution images contain many pixels, resulting in large file sizes that are difficult to store or transmit efficiently.
+Solution: Dimensionality reduction compresses images by representing them with fewer dimensions while maintaining visual quality.
+Example: JPEG compression employs a form of dimensionality reduction (Discrete Cosine Transform) to reduce the number of coefficients needed to reconstruct an image. Similarly, autoencoders can learn a compact representation of images, discarding less critical details.
+</example>

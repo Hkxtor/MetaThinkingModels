@@ -1,0 +1,33 @@
+<id>
+social proof
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Social proof is a psychological phenomenon where people mimic the actions or choices of others, assuming those actions reflect correct behavior—especially in uncertain or ambiguous situations. It's the "crowd wisdom" heuristic: "If others are doing it, it must be right."
+</define>
+
+<example>
+E-Commerce (Customer Reviews & Bestsellers)
+How It Works: Products with 1,000+ reviews outsell identical ones with few ratings, even if cheaper.
+Actionable Tactics: Display review counts prominently ("10,000+ bought this month").
+</example>
+
+<example>
+Public Behavior (Canned Laughter in TV Shows)
+How It Works: Laugh tracks make jokes seem funnier by signaling "others are laughing."
+Actionable Tactics: Use testimonials with specific results ("Jane lost 20 lbs") over generic praise.
+</example>
+
+<example>
+Emergency Situations (Bystander Effect Reversal)
+How It Works: In crises, crowds freeze because everyone looks to others for cues.
+Actionable Tactics: Break ambiguity by pointing to one person: "You in the red shirt—call 911!"
+</example>

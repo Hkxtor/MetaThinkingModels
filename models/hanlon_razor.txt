@@ -1,0 +1,34 @@
+<id>
+Hanlon's razor
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+society, psychology
+</field>
+
+<define>
+In simpler terms: Don't assume harmful intent when ignorance or oversight could explain the behavior.
+</define>
+
+<example>
+Situation: A friend posts a cryptic comment that seems aimed at you.
+Malice Assumption: "They're mocking me publicly!"
+Hanlon's Razor: "They're venting about something else, or didn't realize how it sounded."
+</example>
+
+<example>
+Situation: A new law creates bureaucratic hassles.
+Malice Assumption: "The government is trying to control us!"
+Hanlon's Razor: "The policy was poorly designed due to rushed drafting or lack of foresight."
+</example>
+
+<example>
+Situation: A driver cuts you off.
+Malice Assumption: "They did that on purpose!"
+Hanlon’s Razor: "They didn't see you or are distracted by GPS/kids."
+Action: Let it go instead of road rage.
+</example>

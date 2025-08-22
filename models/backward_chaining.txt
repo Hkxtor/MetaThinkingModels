@@ -1,0 +1,31 @@
+<id>
+backward chaining
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Backward Chaining is a problem-solving strategy where you start from the desired outcome or goal and work backward to determine the steps or conditions necessary to achieve it. 
+This goal-driven approach is particularly useful when the end objective is clear, but the path to reach it is not immediately obvious.
+</define>
+
+<example>
+Project Management
+Problem: A project manager must ensure a product launch is completed by a specific date, such as December 1st.
+Application: Starting from the goal—the launch date—the manager works backward to map out the required tasks and their deadlines.
+Process: The launch requires final testing, which needs a completed product. Product completion requires development, which depends on design approval. Design approval needs a submitted draft, and so on, until the initial step of initiating the project plan is reached. Each task is assigned a deadline working backward from December 1st.
+</example>
+
+<example>
+Computer Science: Logic Programming
+Problem: In a logic-based system like Prolog, determine if a conclusion (e.g., "X is mortal") follows from given rules and facts.
+Application: The system starts with the goal ("X is mortal") and works backward to find rules or facts that support it.
+Process: A rule like "If X is human, then X is mortal" makes "X is human" a sub-goal. The system then checks for a fact like "Socrates is human." If found, it confirms "Socrates is mortal." If not, it searches for other rules or facts, continuing until the goal is proven or disproven.
+Outcome: Backward Chaining efficiently resolves queries by focusing only on rules and facts relevant to the goal, a key feature in automated reasoning systems.
+</example>

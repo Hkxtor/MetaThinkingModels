@@ -1,0 +1,39 @@
+<id>
+Law of large numbers(LLN)
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Law of Large Numbers is a statistical principle stating that as the number of trials or observations increases, the average of the results will converge to the expected value. In simpler terms: "With enough data, randomness evens out, and patterns become clear."
+</define>
+
+<example>
+Field: Finance (Investment Returns)
+Example: A stock might swing wildly daily, but over decades, its average return aligns with its fundamental value (e.g., S&P 500's ~7% annualized return).
+Decision Impact: Short-term volatility is noise; long-term investors ignore it. Diversification works because LLN smooths out individual stock risks.
+</example>
+
+<example>
+Field: Manufacturing (Quality Control)
+Example: A factory producing light bulbs finds 5% are defective in small batches, but the rate stabilizes at 5% over millions of units.
+Decision Impact: Sample testing is sufficient to predict mass production quality.
+</example>
+
+<example>
+Field: Gambling (Casino Profits)
+Example: A roulette wheel has a 2.7% house edge. A single bettor might win big, but with millions of spins, the casino's profit approaches 2.7%.
+Decision Impact: Casinos don't worry about short-term losses; they know LLN guarantees long-term profits.
+</example>
+
+<example>
+Field: Sports (Player Performance)
+Example: A baseball hitter's batting average over 10 games is erratic, but over 162 games, it reflects true skill.
+Decision Impact: Teams sign players based on multi-season stats, not hot streaks.
+</example>

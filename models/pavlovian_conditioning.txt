@@ -1,0 +1,33 @@
+<id>
+Pavlovian Conditioning
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Pavlovian Conditioning (Classical Conditioning), is a learning process where a neutral stimulus becomes associated with a meaningful stimulus, eventually triggering the same response.
+</define>
+
+<example>
+Marketing & Advertising (Consumer Behavior)
+Example: A jingle paired with a popular beverage makes people thirsty when they hear the tune.
+Why? Brands like Coca-Cola or McDonald’s use consistent sounds, logos, or colors to trigger cravings.
+</example>
+
+<example>
+Technology & Notifications (Digital Addiction)
+Example: Smartphone vibrations paired with social media rewards cause dopamine-driven urges to check the phone.
+Why? Apps condition users to associate notifications with pleasure, reinforcing habitual use.
+</example>
+
+<example>
+Medicine & Placebo Effect (Healthcare)
+Example: A sugar pill given with a doctor's reassurance reduces pain even without real medication.
+Why? The brain learns to associate the pill (or medical setting) with relief.
+</example>

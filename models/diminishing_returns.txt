@@ -1,0 +1,33 @@
+<id>
+diminishing returns
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The law of diminishing marginal returns states that adding more of one input (e.g., time, money, effort) while holding other inputs constant will eventually yield smaller incremental benefits.
+</define>
+
+<example>
+Field: Agriculture (Fertilizer Use)
+Example: Adding 1kg of fertilizer to a field boosts crop yield by 20%. Adding another 1kg might only boost it by 5%, and eventually harms plants (negative returns).
+Decision Impact: Farmers optimize fertilizer use at the "sweet spot" before marginal gains vanish.
+</example>
+
+<example>
+Field: Business (Advertising Spend)
+Example: A startup's first 10K ad spending brings 100 new customers, the next 10K spending might only bring 30, then 10, as the market saturates.
+Decision Impact: Shift budgets to new channels (e.g., influencer marketing vs. Google Ads).
+</example>
+
+<example>
+Field: Technology (Software Features)
+Example: Adding 10 features to an app delights users. Adding 50 more creates bloat, slowing performance and confusing users.
+Decision Impact: Prioritize simplicity (e.g., Apple's minimalist design).
+</example>

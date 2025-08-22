@@ -1,0 +1,38 @@
+<id>
+incentive
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Incentives are rewards or punishments that motivate behavior. They align (or misalign) individual actions with desired outcomes by tapping into human psychology—greed, fear, social approval, or curiosity.
+</define>
+
+<example>
+Workplace Productivity (Sales Commissions)
+How It Works: Pay salespeople 10% commission on deals - they hustle harder.
+Flip Side: If commissions reward any sale (not profitable ones), they'll push low-margin deals.
+Decision Tip: Design incentives that align with long-term goals (e.g., profit-based bonuses).
+</example>
+
+<example>
+Education (Grades vs. Learning)
+How It Works: Students study to earn A's, not to master material - cram-and-forget cycles.
+Flip Side: Pass/fail grading reduces stress but may lower effort.
+Decision Tip: Reward curiosity (e.g., project-based learning over rote tests).
+</example>
+
+<example>
+Corporate Ethics (Whistleblower Bounties)
+How It Works: Pay employees 20% of fines for reporting fraud - more fraud exposed.
+Flip Side: May encourage false reports for profit.
+Decision Tip: Audit claims rigorously to prevent gaming.
+</example>
+
+

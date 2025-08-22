@@ -1,0 +1,42 @@
+<id>
+self-fulfilling prophecy
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A self-fulfilling prophecy occurs when a belief or expectation, whether true or false, influences behavior in a way that causes the belief to come true. Essentially, people act based on their assumptions, creating outcomes that align with those assumptions.
+</define>
+
+<example>
+Economics & Financial Markets
+Example: A bank is rumored to be insolvent (even if it's financially sound).
+How It Unfolds:
+People panic and withdraw their money.
+The bank loses liquidity and actually collapses.
+Result: The false belief caused the very crisis it predicted.
+</example>
+
+<example>
+Education & Student Performance
+Example: A teacher believes a student is "gifted" (or "struggling").
+How It Unfolds:
+The teacher gives the "gifted" student more attention and challenges, boosting their performance.
+The "struggling" student receives less encouragement, leading to poorer results.
+Result: The initial label shapes the outcome.
+</example>
+
+<example>
+Workplace & Employee Performance
+Example: A manager assumes a new hire is a "high performer."
+How It Unfolds:
+The manager assigns them important projects, offers mentorship, and gives positive feedback.
+The employee, feeling trusted, works harder and succeeds.
+Result: The manager's belief created the high performer.
+</example>

@@ -1,0 +1,35 @@
+<id>
+pareto frontier
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Pareto frontier (or Pareto optimal set) is a concept in economics and decision theory that represents the set of optimal trade-offs where no further improvement can be made in one objective without worsening another.
+Key Properties:
+Non-dominated solutions: Every point on the frontier is "better" in at least one dimension than any other feasible solution.
+Trade-offs: Moving along the frontier means sacrificing one objective to gain in another.
+Optimality: Decisions not on the frontier are inefficient, as improvement is possible without trade-offs.
+</define>
+
+<example>
+Artificial Intelligence (Machine Learning)
+Scenario: Training a model to balance accuracy and computational speed.
+Trade-off: A complex deep-learning model may achieve high accuracy but be slow to run.
+Pareto Frontier: The set of models where no other model is both faster and more accurate.
+Decision Use: Data scientists pick a model on the frontier based on deployment needs (e.g., real-time apps favor speed, research favors accuracy).
+</example>
+
+<example>
+Engineering (Product Design)
+Scenario: Designing a car that balances fuel efficiency and performance (acceleration).
+Trade-off: A lighter car improves fuel efficiency but may reduce structural strength or acceleration.
+Pareto Frontier: The curve plotting the best possible combinations of efficiency and acceleration. Any design not on this curve can be improved in one aspect without harming the other.
+Decision Use: Engineers select a point on the frontier based on market needs (e.g., sports cars favor performance, hybrids favor efficiency).
+</example>

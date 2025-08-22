@@ -1,0 +1,31 @@
+<id>
+natural selection
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Natural selection is the process by which traits that improve survival and reproduction become more common in a population over generations, while disadvantageous traits fade out. Proposed by Charles Darwin, it's the engine of evolution.
+</define>
+
+<example>
+Medicine (Antibiotic Resistance)
+How It Works: Overusing antibiotics kills weak bacteria, leaving resistant mutants to multiply.
+Actionable Insight: Use antibiotics sparingly to slow resistance. Develop rotating drug protocols to outpace evolution.
+</example>
+
+<example>
+Technology (Algorithmic Evolution)
+How It Works: AI models (e.g., GPT) improve through "survival of the fittest" training cycles.
+Actionable Insight: Test multiple versions, keep what works, discard what doesn't.
+</example>
+
+
+
+

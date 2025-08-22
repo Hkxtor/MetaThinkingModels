@@ -1,0 +1,38 @@
+<id>
+Occam's razor
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+"Among competing hypotheses, the one with the fewest assumptions should be selected."
+In simpler terms: The simplest explanation is usually the right one.
+This principle doesn't guarantee truth but serves as a heuristic to avoid unnecessary complexity.
+</define>
+
+<example>
+Symptoms: Fever, cough, fatigue.
+Complex Hypothesis: The patient has a rare tropical disease + a genetic immune disorder.
+Simple Hypothesis: The patient has the flu.
+Occam's Razor: The flu is far more likely (fewer assumptions).
+</example>
+
+<example>
+Issue: Your Wi-Fi isn't working.
+Complex Guess: Your ISP is down + the router firmware is corrupted + your device has a virus.
+Simple Guess: The router was unplugged.
+Occam's Razor: Check the power cord before diving deeper.
+</example>
+
+<example>
+Observation: Your friend isn't replying to texts.
+Complex Assumption: They're angry at you + plotting revenge + ignoring you deliberately.
+Simple Assumption: They're busy or didn't see the message.
+Occam's Razor: Assume innocence unless proven otherwise.
+</example>

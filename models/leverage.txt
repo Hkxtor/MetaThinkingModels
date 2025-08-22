@@ -1,0 +1,35 @@
+<id>
+leverage
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Leverage is the strategic use of a small input to generate a disproportionately large output. It amplifies force, influence, or returns—but also risks. The term originates from physics (using a lever to lift heavy objects with minimal effort) but applies universally.
+</define>
+
+<example>
+Technology Leverage (Software Tools)
+How It Works: A programmer writes code once, then sells it to millions (e.g., iPhone apps).
+Decision Impact: Build scalable assets (e.g., digital products) over trading time for money.
+</example>
+
+<example>
+Financial Leverage (Mortgages)
+How It Works: Borrow 200K to buy a 250K home, appreciates to 300K. Your 50K down payment nets a 50K profit.
+Decision Impact: Use debt cautiously—it magnifies both gains and losses.
+</example>
+
+<example>
+Brand Leverage (Trust Scaling)
+How It Works: Apple's brand lets it charge premium prices; a no-name startup can't.
+Decision Impact: Build credibility early—it multiplies future opportunities.
+</example>
+
+

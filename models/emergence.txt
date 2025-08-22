@@ -1,0 +1,34 @@
+<id>
+emergence
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Emergence describes how complex systems exhibit properties or behaviors that arise from the interactions of their individual components—properties that aren't predictable from the parts alone.
+Key Idea: "The whole is greater than the sum of its parts."
+</define>
+
+<example>
+Economics (Market Trends)
+Emergent Property: No single investor controls the stock market, but collective actions create bubbles, crashes, and trends.
+Decision Impact: Watch for emergent patterns (e.g., meme stock frenzies) rather than relying solely on fundamentals.
+</example>
+
+<example>
+Neuroscience (Consciousness)
+Emergent Mystery: Neurons fire electrically, but their collective activity generates subjective experience.
+Decision Impact: AI ethics - If consciousness emerges in machines, how do we treat them?
+</example>
+
+<example>
+Biology (Ant Colonies)
+Emergent Behavior: Individual ants follow simple rules (e.g., follow pheromone trails), but the colony builds intricate nests, farms fungi, and wages wars.
+Decision Impact: Swarm robotics: Design drones that collaborate like ants for search-and-rescue.
+</example>

@@ -1,0 +1,32 @@
+<id>
+Dunbar's number
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Dunbar's Number is the cognitive limit to the number of stable social relationships a person can maintain—approximately 150. It reflects the brain's capacity to track social nuances (trust, history, obligations). Beyond this, relationships become superficial.
+</define>
+
+<example>
+Social Media ("Friends" vs. Real Connections)
+Observation: You might have 1,000 Facebook "friends," but only ~150 ever interact meaningfully.
+Practical Use: Curate your inner circle - focus energy on relationships that reciprocate. Ignore FOMO; humans aren't wired to maintain 500 close ties.
+</example>
+
+<example>
+Military (Unit Design)
+Example: Roman armies and modern militaries organize squads of ~150 soldiers for trust/coordination.
+Practical Use: Structure groups where everyone knows each other's roles/strengths.
+</example>
+
+
+
+
+

@@ -1,0 +1,42 @@
+<id>
+state machine
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A state machine (or finite-state machine, FSM) is a computational model that describes a system as:
+A set of states (conditions the system can be in)
+A set of transitions (how the system moves between states)
+A set of inputs/events that trigger transitions
+</define>
+
+<example>
+Electronics & Hardware Design
+Vending Machines
+States: Idle, Payment Received, Dispensing Item
+Transitions: Money inserted → move to "Payment Received"
+</example>
+
+<example>
+Biology & Neuroscience
+Neuron Firing States
+States: Resting, Depolarizing, Firing, Refractory
+Transitions: Electrical threshold reached → Firing
+</example>
+
+<example>
+Healthcare & Medical Devices
+Pacemaker Operation
+States: Monitoring, Pacing, Charging
+Transitions: Irregular heartbeat detected → deliver shock.
+</example>
+
+
+

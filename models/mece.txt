@@ -1,0 +1,64 @@
+<id>
+MECE framework
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The MECE Framework (Mutually Exclusive, Collectively Exhaustive) is a structured problem-solving and analytical approach designed to organize information, ideas, or problems in a clear, logical, and comprehensive manner, ensuring no overlap or gaps in analysis. 
+Mutually Exclusive (ME): Each category or element in the analysis must be distinct, with no overlap between them. Collectively Exhaustive (CE): The categories must cover all possible options or aspects of the problem, leaving no gaps.
+</define>
+
+<example>
+Business Consulting: The consultants use MECE to structure the analysis of market entry options.  
+Problem: How should the company enter the Southeast Asian market?  
+MECE Breakdown:  
+Geographic Markets:  
+Urban areas (high population density, higher income).  
+Rural areas (lower income, broader reach).
+
+Entry Modes:  
+Direct investment (e.g., build factories, establish subsidiaries).  
+Partnerships (e.g., joint ventures with local firms).  
+Distribution agreements (e.g., leverage existing retailers).
+
+Product Segments:  
+Premium products (target affluent consumers).  
+Affordable products (target mass market).
+
+Each category is mutually exclusive (e.g., urban vs. rural markets don't overlap) and collectively exhaustive (covers all relevant markets, entry modes, and product types).
+Outcome: The MECE structure allowed the consultants to systematically evaluate each option (e.g., urban premium products via partnerships) and recommend a phased entry starting with distribution agreements in urban areas for affordable products. This approach minimized risk while testing market fit.
+</example>
+
+<example>
+Education: What changes should be made to the business curriculum to enhance student employability?  
+MECE Breakdown:  
+Curriculum Content:  
+Core courses (e.g., finance, marketing).  
+Elective courses (e.g., data analytics, entrepreneurship).  
+Practical training (e.g., internships, case studies).
+
+Delivery Methods:  
+In-person classes.  
+Online or hybrid classes.  
+Experiential learning (e.g., simulations, projects).
+
+Stakeholder Needs:  
+Student preferences (e.g., flexibility, career relevance).  
+Employer demands (e.g., skills in AI, leadership).  
+Faculty capabilities (e.g., expertise, teaching capacity).
+
+Each category is mutually exclusive (e.g., core vs. elective courses) and collectively exhaustive (covers all content, delivery, and stakeholder considerations).
+Outcome: The MECE structure guided the university to integrate practical training (e.g., mandatory internships) and online electives in emerging fields like AI, aligning with employer demands and student preferences. The clear categorization ensured no aspect of the curriculum was missed.
+</example>
+
+
+
+
+

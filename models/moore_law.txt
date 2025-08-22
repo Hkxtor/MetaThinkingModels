@@ -1,0 +1,31 @@
+<id>
+Moore's law
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Moore's Law observes that the number of transistors on a microchip doubles approximately every two years, leading to exponential growth in computing power while costs decrease.
+</define>
+
+<example>
+Evolution of Computer Processors
+Example: Intel's processors from the 1970s (e.g., 4004 with 2,300 transistors) vs. today’s chips (e.g., Apple M2 with 20 billion transistors).
+Impact: Faster, more efficient computers (from room-sized mainframes to pocket-sized smartphones).
+</example>
+
+<example>
+Transistor Count & Performance Scaling
+Example:
+Nvidia GTX 480 (2010): 3 billion transistors, 1.4 TFLOPS
+RTX 4090 (2022): 76 billion transistors, ~90 TFLOPS
+Why it fits Moore's Law:
+Transistor count increased ~25x in 12 years (~2x every 2 years).
+Performance (FLOPS) grew even faster due to architectural improvements (e.g., CUDA cores, tensor cores).
+</example>

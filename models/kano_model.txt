@@ -1,0 +1,49 @@
+<id>
+Kano model
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The Kano Model is developed for understanding Customer Delight. It classify customer preferences into categories to prioritize product features and enhance satisfaction.
+The 3 Core Categories
+1. Basic Needs (Must-Be Features)
+What: Expected requirements; their absence causes dissatisfaction, but presence doesn’t increase satisfaction.
+Business Implication: Fail here, and you lose customers fast.
+2. Performance Needs (One-Dimensional Features)
+What: Features where satisfaction scales linearly with performance.
+Business Implication: Competitive differentiation happens here.
+3. Delighters (Excitement Features)
+What: Unexpected perks that wow customers. Over time, these become expectations.
+Business Implication: Drives word-of-mouth and loyalty.
+</define>
+
+<example>
+Automobiles (Tesla vs. Traditional Cars)
+Basic Needs: Seatbelts, brakes.
+Performance Needs: Fuel efficiency (EV range), acceleration.
+Delighters: Autopilot, over-the-air updates, "Dog Mode."
+Why It Works: Tesla turned software updates (a delighter) into an industry norm.
+</example>
+
+<example>
+E-Commerce (Amazon Prime)
+Basic Needs: Functional website, secure checkout.
+Performance Needs: Delivery speed (2-day → same-day).
+Delighters: Free returns, Prime Video, "Subscribe & Save."
+Why It Works: Bundling media with shipping created unmatched loyalty.
+</example>
+
+<example>
+Hospitality (Five-Star Hotels)
+Basic Needs: Clean rooms, working Wi-Fi.
+Performance Needs: Room size, breakfast quality.
+Delighters: Personalized greetings, free upgrades, pillow menus.
+Why It Works: Surprise treats (e.g., birthday cupcakes) spark 5-star reviews.
+</example>

@@ -1,0 +1,27 @@
+<id>
+divide and conquer
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Divide and conquer is a problem-solving strategy where you break a complex challenge into smaller, manageable parts, solve each separately, and then combine the solutions to tackle the whole.
+</define>
+
+<example>
+Field: Computer Science/Programming
+Scenario: You need to sort a list of 1,000 numbers. Doing it all at once is a slog.
+Divide and Conquer at Work: Use merge sort—split the list into two (500 each), split those again (250), down to pairs. Sort each pair, merge them back, building up to a fully sorted list. Time drops from n^2 to n log n complexity.
+</example>
+
+<example>
+Field: Education/Studying
+Scenario: Finals loom, and you've got 10 chapters of biology to learn—too much to cram.
+Divide and Conquer at Work: Break it down: 2 chapters a day, split into reading (1 hour), notes (30 mins), and flashcards (30 mins). Master cells today, genetics tomorrow, then stitch it together for the test.
+</example>

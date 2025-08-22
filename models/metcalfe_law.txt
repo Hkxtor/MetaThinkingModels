@@ -1,0 +1,30 @@
+<id>
+MetCalfe's law
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The value of a network is proportional to the square of the number of connected users (n²). 
+In short: More users = Exponentially more valuable connections.
+</define>
+
+<example>
+Social Media (Facebook, X/Twitter)
+How it works: A platform with 10 users has ~45 possible connections (10²/2); 100 users have ~4,950 connections.
+Impact: The more users join, the more valuable the network becomes (for advertisers, influencers, and users themselves).
+</example>
+
+<example>
+Telecommunications (Telephone, Internet)
+How it works: A single phone is useless; two phones allow one connection; 1 billion phones enable trillions of potential calls.
+Historical example: AT&T's early monopoly thrived by ensuring universal connectivity.
+Modern twist: 5G and IoT devices amplify network effects further.
+</example>
+

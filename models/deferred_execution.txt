@@ -1,0 +1,36 @@
+<id>
+deferred_execution
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Deferred execution principle can be generalized as: "Delay work until it's absolutely necessary, but no later."
+This principle optimizes resource usage (time, effort, memory) by avoiding premature or redundant actions.
+</define>
+
+<example>
+Lazy copying (Software Engineering), also known as Copy-on-Write (CoW)
+Problem: Copying of a resource is sometimes wasteful, if it is not changed later.
+Lazy Solution: A copy of a resource (e.g., memory, file, or data structure) is deferred until the first modification. Instead of making an immediate deep copy, multiple references share the same data until one of them tries to modify it, at which point an actual copy is made.
+</example>
+
+<example>
+Just-in-Time (JIT) Manufacturing (Business/Production)
+Problem: Traditional manufacturing stocks large inventories, wasting space and capital.
+Lazy Solution: Produce only when demand is confirmed (Toyota's JIT system).
+Why It Works: Reduces waste, storage costs, and obsolescence risk.
+</example>
+
+<example>
+On-Demand Education (Personal Learning)
+Problem: Learning everything upfront is inefficient (e.g., memorizing textbooks).
+Lazy Solution: Learn concepts only when needed (e.g., fixing a car by watching YouTube when it breaks).
+Why It Works: Saves time and improves retention by tying knowledge to immediate use.
+</example>

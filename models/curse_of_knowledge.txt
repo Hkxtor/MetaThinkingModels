@@ -1,0 +1,36 @@
+<id>
+Curse of knowledge
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A cognitive bias where someone who is knowledgeable about a topic struggles to imagine what it's like to not know it, leading to poor communication, teaching, or decision-making. Essentially, "once you know something, it's hard to unknow it."
+</define>
+
+<example>
+Education (Teachers & Students)
+Example: A math professor assumes students intuitively grasp algebraic concepts because they're "obvious" to them, skipping foundational steps.
+Result: Confused students who can't follow along, while the teacher grows frustrated.
+Solution: Breaking down explanations as if teaching a complete beginner.
+</example>
+
+<example>
+Technology (Developers & Users)
+Example: A software engineer designs an app with jargon like "API endpoints" or "SSO authentication" in error messages, assuming users understand.
+Result: Average users feel lost and abandon the app.
+Solution: User testing with non-experts to simplify language.
+</example>
+
+<example>
+Business (Managers & Employees)
+Example: A CEO discusses "optimizing KPIs for QoQ growth" without explaining terms, assuming everyone is familiar.
+Result: Employees nod along but don't act—because they didn't truly understand.
+Solution: Using plain language and confirming comprehension.
+</example>

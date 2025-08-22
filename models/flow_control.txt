@@ -1,0 +1,37 @@
+<id>
+flow_control
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Flow control (backpressure) is a mechanism to regulate the flow of data or tasks in a system to prevent overload. When a downstream component (e.g., a server, worker, or processor) is overwhelmed, it signals upstream to slow down or pause incoming requests until it can catch up.
+</define>
+
+<example>
+Traffic Management (Urban Planning)
+Problem: Too many cars entering a highway causes gridlock.
+Backpressure Solution: Ramp meters (traffic lights at on-ramps) limit how many cars enter the highway at once; Congestion pricing (e.g., tolls during peak hours) discourages overflow.
+Why It Works: Prevents systemic collapse by throttling input dynamically.
+</example>
+
+<example>
+Server overload (Software Engineering)
+Problem: Too many client requests for the server to handle in time.
+Backpressure Solution: Prevent overwhelming a system by limiting the rate of incoming requests.
+</example>
+
+<example>
+Hospital Triage (Healthcare)
+Problem: Emergency rooms get flooded with patients, risking care quality.
+Backpressure Solution:
+Triage nurses prioritize cases and redirect non-urgent patients to clinics.
+Hospitals declare "diversion status" (redirecting ambulances) when overloaded.
+Why It Works: Ensures critical resources (doctors, beds) go to those who need them most.
+</example>

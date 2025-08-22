@@ -1,0 +1,37 @@
+<id>
+redundancy
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Redundancy refers to the deliberate inclusion of backup components, systems, or information to ensure reliability if a primary element fails.
+Key Idea: "Two is one, and one is none."
+</define>
+
+<example>
+Field: Engineering (Aircraft Safety)
+Example: Commercial jets have redundant hydraulic systems, engines, and flight controls.
+Why It Matters: A single failure won't cause a crash (e.g., the 1989 Sioux City crash where redundancy allowed a powerless jet to land).
+Decision Tip: In high-stakes systems, always design fail-safes.
+</example>
+
+<example>
+Field: Personal Finance (Income Streams)
+Example: Having a side hustle alongside a full-time job.
+Why It Matters: If you lose your job, the side income buffers the blow.
+Decision Tip: Follow the "25% Rule"—don't let any single income source exceed 25% of your total earnings.
+</example>
+
+<example>
+Field: Urban Planning (Power Grids)
+Example: Hospitals use backup generators when the main grid fails.
+Why It Matters: Prevents life-threatening outages during disasters (e.g., Texas 2021 freeze).
+Decision Tip: Homeowners in disaster-prone areas should invest in solar+battery backups.
+</example>

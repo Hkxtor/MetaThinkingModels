@@ -1,0 +1,38 @@
+<id>
+hashing
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Hashing is a computer science technique that takes any input (like text, files, or data) and converts it into a fixed-size string of characters (usually numbers and letters) called a hash value or digest. This process is done using a hash function, which is designed to be:
+Deterministic → Same input always gives the same hash
+Fast to compute → Quick to generate hashes
+Hard to reverse → Can't easily get the original input from the hash
+Collision-resistant → Different inputs should (ideally) not produce the same hash.
+</define>
+
+<example>
+Data Retrieval & Databases
+Hash Tables (Fast Lookup): Databases use hashing to store and retrieve data in constant time (O(1)).
+Deduplication: Cloud storage (e.g., Dropbox) checks file hashes to avoid storing duplicates.
+</example>
+
+<example>
+Plagiarism Detection
+Document Fingerprinting: Tools like Turnitin hash text chunks to compare against a database of sources.
+</example>
+
+<example>
+Networking & Load Balancing
+Consistent Hashing (Distributed Systems): Used by CDNs (like Cloudflare) to evenly distribute web traffic across servers.
+</example>
+
+
+

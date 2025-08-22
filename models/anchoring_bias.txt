@@ -1,0 +1,33 @@
+<id>
+anchoring bias
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+First conclusion bias, or anchoring bias, or premature closure, is the tendency to latch onto the initial explanation, solution, or judgment that comes to mind when faced with a problem or decision, then stick to it without fully exploring alternatives.
+</define>
+
+<example>
+Field: Investment
+Scenario: You hear a stock tip about a hot tech company and decide it's a "sure thing" based on a friend's hype.
+Avoiding Mistakes: Force yourself to seek disconfirming evidence. Check the company's revenue, debt, and competitors before buying.
+</example>
+
+<example>
+Field: Medicine
+Scenario: A doctor sees a patient with chest pain and jumps to "heartburn" because it's common and fits initial symptoms. Order antacids without considering a heart attack, especially if the patient is young, missing subtle clues like sweating or arm pain.
+Avoiding Mistakes: Use a differential diagnosis approach - list multiple possibilities (heart attack, pulmonary embolism, heartburn) and rule them out systematically with tests (EKG, blood work). Double-checking saves lives.
+</example>
+
+<example>
+Field: Software
+Scenario: A coder sees a bug - say, a webpage won't load, and assumes it's a server issue because that's happened before.
+Avoiding Mistakes: Follow a systematic process: reproduce the bug, check logs, test assumptions (server? browser? code?). 
+</example>

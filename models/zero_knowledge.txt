@@ -1,0 +1,42 @@
+<id>
+zero knowledge proof
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A Zero-Knowledge Proof (ZKP) is a cryptographic method where one party (the prover) can prove to another party (the verifier) that a statement is true without revealing any additional information beyond the validity of the statement itself.
+Key Properties:
+Completeness: If the statement is true, the verifier will be convinced.
+Soundness: If the statement is false, no dishonest prover can trick the verifier.
+Zero-Knowledge: The verifier learns nothing except that the statement is true.
+</define>
+
+<example>
+Privacy-Preserving Authentication (Logins Without Passwords)
+Problem: Traditional logins require sharing passwords or biometrics, risking leaks.
+ZKP Solution:
+A user proves they know a password (e.g., via cryptographic hash) without sending the password itself.
+</example>
+
+<example>
+Anonymous Voting (Election Integrity)
+Problem: How to verify a vote was counted without revealing voter identity?
+ZKP Solution:
+A voter proves their ballot is valid (e.g., signed by a registered key) but hides their selection.
+Used in: Decentralized voting protocols (e.g., MACI by Ethereum's Privacy & Scaling Explorations).
+</example>
+
+<example>
+Confidential Financial Transactions (Banking & Crypto)
+Problem: Banks need to comply with regulations (e.g., proving solvency) without exposing customer balances.
+ZKP Solution:
+A bank proves it has enough reserves to cover liabilities without revealing individual accounts.
+Used in: Zcash (shielded transactions), Central Bank Digital Currencies (CBDCs).
+</example>

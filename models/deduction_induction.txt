@@ -1,0 +1,47 @@
+<id>
+deduction and induction
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Deductive Reasoning starts with general rules or principles and arrive at a specific, logically certain conclusion.
+Inductive Reasoning starts with specific observations or data to form a general rule or prediction (not guaranteed to be true).
+</define>
+
+<example>
+Science
+Deductive:
+Premise: If a chemical turns blue in the presence of acid, and I drop it into vinegar (an acid),
+Conclusion: Then it should turn blue.
+Inductive:
+Observation: Multiple metal samples expand when heated.
+Conclusion: Heating causes metals to expand.
+</example>
+
+<example>
+Law
+Deductive:
+Premise: According to the law, theft is taking something without permission.
+Fact: John took a laptop from the office without permission.
+Conclusion: John committed theft.
+Inductive:
+Observation: Many defendants with similar background and evidence were found not guilty.
+Conclusion: This type of evidence may not be enough for a conviction.
+</example>
+
+<example>
+Business/Marketing
+Deductive:
+Premise: If discounts increase conversions, and we're offering a 20% discount,
+Conclusion: We should expect more sales.
+Inductive:
+Observation: Recent campaigns with emotional storytelling had higher engagement.
+Conclusion: Emotional content seems to resonate more with our audience.
+</example>

@@ -1,0 +1,63 @@
+<id>
+The Eisenhower Matrix
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A productivity tool (also called the Urgent-Important Matrix) that helps prioritize tasks by categorizing them into four quadrants based on urgency and importance. It's named after President Dwight D. Eisenhower, who famously said:
+"What is important is seldom urgent, and what is urgent is seldom important."
+The 4 Quadrants:
+Important and urgent Q1: Do Now (Crises, deadlines)	
+Important and not urgent Q2: Schedule (Long-term goals)
+Not Important and urgent Q3: Delegate (Interruptions)	
+Not important and not urgent Q4: Eliminate (Time-wasters)
+</define>
+
+<example>
+Business Leadership (CEO Decision-Making)
+Scenario: A CEO manages their weekly tasks.
+Q1 (Do Now):
+Handling a sudden PR crisis (urgent & important).
+Signing off on quarterly financial reports due today.
+
+Q2 (Schedule):
+Strategic planning for next year’s product launch (important but not urgent).
+Leadership team development workshops.
+
+Q3 (Delegate):
+Responding to non-critical emails (urgent but not important → assign to an assistant).
+Routine operational meetings (let a VP lead).
+
+Q4 (Eliminate):
+Browsing industry news without a clear purpose.
+Attending unnecessary networking events.
+Outcome: The CEO focuses on high-impact work (Q1 & Q2) while minimizing distractions.
+</example>
+
+<example>
+Personal Productivity (Freelancer Workflow)
+Scenario: A freelance graphic designer manages their workload.
+Q1 (Do Now):
+Client revision due in 2 hours.
+Fixing a website bug affecting payments.
+
+Q2 (Schedule):
+Learning a new design software (skill upgrade).
+Networking with potential long-term clients.
+
+Q3 (Delegate):
+Invoice reminders (use an automated tool).
+Social media posts (hire a virtual assistant).
+
+Q4 (Eliminate):
+Scrolling Instagram for "inspiration."
+Over-optimizing low-priority designs.
+Outcome: The freelancer avoids burnout by focusing on high-value tasks (Q1/Q2) and automating/deleting the rest.
+</example>

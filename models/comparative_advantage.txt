@@ -1,0 +1,32 @@
+<id>
+Comparative Advantage
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Comparative advantage is the ability to produce something—goods, services, or outcomes—at a lower opportunity cost than others, even if you're not the best at it overall. 
+In life, it's about leaning into what you do relatively well, given your resources, rather than chasing absolute perfection. It's a decision hack—play to your strengths, delegate the rest.
+</define>
+
+<example>
+Field: Career/Work
+Scenario: You're decent at graphic design but great at project management. A colleague excels at design but struggles with organization.
+Comparative Advantage at Work: Your opportunity cost for designing (time lost managing) is higher than hers. You're better off leading projects and letting her handle visuals—output soars for both.
+Using It: Assess your skills—where do you shine with less trade-off? Focus there and outsource or team up for the rest. When picking a role, aim where your edge beats the cost, not where you're just "okay."
+</example>
+
+<example>
+Field: Hobbies/Creativity
+Scenario: You're good at writing lyrics but average at guitar. Your bandmate's a guitar whiz but lyrics stump him.
+Comparative Advantage at Work: Your cost of writing (not playing) is lower than his, while he shines at riffs. You pen the songs, he strums—better music, less frustration.
+Using It: In projects, stick to your sweet spot—paint if you're fast with a brush, not sculpt if it drags. Collaborate or barter with others' strengths (e.g., trade editing for design). It boosts output without burnout.
+</example>
+
+

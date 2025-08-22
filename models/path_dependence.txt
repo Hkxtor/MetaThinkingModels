@@ -1,0 +1,32 @@
+<id>
+path dependence
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Path dependence is a concept where the outcome of a process or system depends heavily on its historical trajectory, not just its current conditions. 
+Early decisions, events, or conditions set a course that shapes future possibilities, often locking in certain patterns even if better alternatives exist later.
+</define>
+
+<example>
+Technology
+Example: The QWERTY keyboard layout.
+Explanation: Designed in the 1870s for typewriters to prevent jamming, QWERTY became standard despite more efficient layouts (e.g., Dvorak) emerging later. 
+Early adoption by typists and manufacturers created a network effect—training, habits, and production locked it in.
+How It Applies: Path dependence shows why a suboptimal design dominates today's keyboards, as switching costs outweigh potential gains.
+</example>
+
+<example>
+Policy and Institutions
+Example: The U.S. healthcare system.
+Explanation: Unlike countries with universal healthcare, the U.S. path began with employer-based insurance during WWII wage controls. This private system gained momentum, reinforced by tax incentives and lobbying, making a shift to single-payer harder despite rising costs.
+How It Applies: Early policy choices created a self-reinforcing structure, showing how path dependence can entrench systems even when alternatives might be more efficient.
+</example>
+

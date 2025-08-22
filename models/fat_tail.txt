@@ -1,0 +1,29 @@
+<id>
+fat tail
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A fat tail distribution describes a probability pattern where extreme events (outliers) occur more frequently than predicted by a normal (Gaussian) distribution. 
+Unlike the rapid decay of the bell curve's tails, fat tails imply higher odds of rare but catastrophic or lucrative outcomes.
+</define>
+
+<example>
+Field: Technology (Viral Content)
+Example: Most tweets flop, but a few (e.g., celebrity scandals) get 100M+ views.
+Decision Impact: Platforms optimize for virality, not averages.
+</example>
+
+<example>
+Field: Finance (Market Crashes)
+Example: The 2008 crisis was a 5σ "impossible" event under Gaussian models—but predictable with fat tails.
+Decision Impact: Use tail-risk hedging (e.g., gold, puts).
+Avoid over-reliance on "normal" risk models (VaR fails here).
+</example>

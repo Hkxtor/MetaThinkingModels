@@ -1,0 +1,37 @@
+<id>
+map reduce
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+MapReduce is a parallel programming model for processing large datasets across distributed systems. It consists of two main phases:
+Map: Breaks input data into smaller chunks. Processes each chunk independently (in parallel), emitting key-value pairs.
+Reduce: Aggregates intermediate results from the Map phase by key. Produces a final output (e.g., sum, average, or other computations).
+</define>
+
+<example>
+Scientific Research (Climate Modeling)
+How MapReduce applies:
+Climate simulations generate massive datasets (e.g., temperature, CO₂ levels across regions).
+Map: Divide data by geographic region or time period.
+Reduce: Combine results to identify global trends (e.g., average temperature rise).
+Why MapReduce?
+Enables parallel processing of petabytes of data across supercomputers.
+</example>
+
+<example>
+Business Analytics (Customer Segmentation)
+How MapReduce applies:
+Retailers process millions of transactions to group customers by behavior.
+Map: Extract purchase histories (e.g., "Customer X bought Y, Z").
+Reduce: Cluster similar buyers for targeted marketing.
+Why MapReduce?
+Handles large-scale data efficiently (e.g., Amazon’s recommendation systems).
+</example>

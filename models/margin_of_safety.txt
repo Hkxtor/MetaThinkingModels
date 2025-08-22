@@ -1,0 +1,36 @@
+<id>
+margin of safety
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Margin of safety is the buffer between what you expect to happen and what could go wrong. It's the gap between "enough" and "too little," ensuring resilience against uncertainty, errors, or volatility.
+Key Idea: "Plan for the worst; hope for the best."
+</define>
+
+<example>
+Field: Engineering (Bridge Design)
+Example: A bridge built to hold 10,000 kg when maximum expected traffic is 6,000 kg has a 40% margin of safety.
+Why It Matters: Prevents collapse during unexpected events (e.g., traffic jams, earthquakes).
+Decision Tip: Always exceed minimum requirements in critical systems.
+</example>
+
+<example>
+Field: Health (Medication Dosing)
+Example: The lethal dose of aspirin is ~10g, but the max daily dose is 4g, a 60% margin of safety.
+Why It Matters: Accounts for individual variability or accidental overdoses.
+Decision Tip: Follow prescribed limits strictly; avoid "more is better" thinking.
+</example>
+
+<example>
+Personal Finance (Emergency Funds)
+Example: Saving 6 months' expenses when 3 months is the "minimum" recommendation.
+Why It Matters: Covers job loss, medical bills, or recessions.
+</example>

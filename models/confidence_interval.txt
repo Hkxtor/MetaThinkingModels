@@ -1,0 +1,36 @@
+<id>
+confidence interval
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+A confidence interval (CI) is a range of values, derived from sample data, that is likely to contain the true value of an unknown population parameter (e.g., mean, proportion) with a specified level of confidence (e.g., 95%). It quantifies uncertainty in estimates.
+</define>
+
+<example>
+Medicine & Public Health
+Application: Testing a new drug's effectiveness.
+Example: A study finds the drug reduces blood pressure by 10–15 mmHg (95% CI: 8–17 mmHg).
+Why It Matters: Clinicians use this range to assess whether the effect is statistically and clinically meaningful.
+</example>
+
+<example>
+Market Research & Business
+Application: Estimating customer satisfaction.
+Example: A survey shows 70% of customers are satisfied (95% CI: 65%–75%).
+Why It Matters: The company can be confident the true satisfaction rate lies in this range, guiding improvements.
+</example>
+
+<example>
+Manufacturing & Quality Control
+Application: Monitoring product durability.
+Example: A batch of batteries lasts 120–130 hours (99% CI).
+Why It Matters: If the CI falls above the industry standard, the product meets quality goals.
+</example>

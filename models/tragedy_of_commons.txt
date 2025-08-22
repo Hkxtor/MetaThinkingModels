@@ -1,0 +1,33 @@
+<id>
+Tragedy of the commons
+</id>
+
+<type>
+explain
+</type>
+
+<field>
+*
+</field>
+
+<define>
+The tragedy of the Commons describes a situation where individuals, acting in their own self-interest, deplete a shared resource, even when it's against the group's long-term benefit. Key Idea: "What's rational for one is disastrous for all."
+</define>
+
+<example>
+Environment (Overfishing)
+Tragedy: Fishermen maximize catches until fish populations collapse.
+Solution: 1. Quotas (e.g., Iceland’s sustainable fishing licenses). 2. Privatization (assign ownership rights, like tradable fishing zones).
+</example>
+
+<example>
+Public Health (Antibiotic Resistance)
+Tragedy: Overuse of antibiotics by individuals breeds superbugs.
+Solution:1. Regulate prescriptions (e.g., UK’s antibiotic stewardship programs). 2. Public education on responsible use.
+</example>
+
+<example>
+Urban Traffic (Road Congestion)
+Tragedy: Everyone drives because it's fastest for them, creating gridlock.
+Solution: 1. Congestion pricing (e.g., London's tolls). 2. Invest in public transit to reduce individual incentives to drive.
+</example>

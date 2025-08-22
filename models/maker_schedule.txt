@@ -1,0 +1,42 @@
+<id>
+maker's schedule and manager's schedule
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Coined by Paul Graham, this framework highlights two distinct approaches to organizing time:
+Maker's Schedule:
+For: Creators (writers, programmers, designers).
+Structure: Long, uninterrupted blocks (e.g., 3–4 hours) to dive deep into work.
+Why: Switching tasks kills flow state (it takes ~23 minutes to refocus after an interruption).
+
+Manager's Schedule:
+For: Coordinators (executives, administrators).
+Structure: Hourly meetings or 30-minute slots to delegate, align, and decide.
+Why: Their role requires constant context-switching.
+</define>
+
+<example>
+Software Development (Maker's Schedule)
+Problem: A programmer's day is fragmented by stand-ups, Slack pings, and ad-hoc requests.
+Solution:
+Block "maker time": Reserve mornings (9 AM–12 PM) for coding; decline meetings.
+Batch interruptions: Check messages/emails only after noon.
+Result: 3x more productivity in focused blocks.
+</example>
+
+<example>
+Startup Founder (Hybrid Schedule)
+Problem: Founders must both build (maker) and lead (manager).
+Solution:
+Split the day: Makers hours (AM) for product work; manager hours (PM) for meetings.
+Example: Elon Musk famously splits his week (e.g., Monday = engineering, Tuesday = ops).
+Result: Balances deep work with leadership demands.
+</example>

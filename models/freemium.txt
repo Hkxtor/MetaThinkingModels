@@ -1,0 +1,31 @@
+<id>
+freemium
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Freemium is a business model where a basic product or service is offered for free, while advanced features require payment. The goal is to attract a large user base with free offerings, then convert a fraction into paying customers.
+</define>
+
+<example>
+Software & Apps (Low Marginal Cost)
+Example: Slack
+Free: Limited message history, 10 integrations.
+Premium: Unlimited history, priority support ($8/user/month).
+Why It Works: Users get hooked on the free version, then upgrade for team needs.
+</example>
+
+<example>
+Media & Content (Ad-Based or Subscription)
+Example: Spotify
+Free: Shuffled playlists with ads.
+Premium: Ad-free, offline listening ($10/month).
+Why It Works: Free users tolerate ads; music lovers pay for convenience.
+</example>

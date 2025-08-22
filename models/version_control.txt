@@ -1,0 +1,47 @@
+<id>
+version control
+</id>
+
+<type>
+solve
+</type>
+
+<field>
+*
+</field>
+
+<define>
+Version control is a system that records changes to files over time, allowing you to:
+Track every modification ("who changed what, and when")
+Revert to previous versions if needed
+Collaborate without overwriting others' work
+Key Concepts:
+Repository (Repo): Central database storing all versions
+Commit: A saved change with a description
+Branch: Parallel version for experimental changes
+Merge: Combining different versions together
+</define>
+
+<example>
+Software Development (Original Use Case)
+GitHub/GitLab: Developers collaborate on code
+Example: Linux kernel development (thousands of contributors)
+Feature Branches: Test new ideas without breaking working code
+</example>
+
+<example>
+Government & Policy
+Legislation Drafting: Track bill amendments
+Example: European Union's EUR-Lex document system
+Public Records: Maintain historical versions of laws.
+</example>
+
+<example>
+Creative Writing
+Novel Drafts: Manage chapter revisions
+Tools: Scrivener's snapshot feature
+Example: Collaborative screenplay writing
+</example>
+
+
+
