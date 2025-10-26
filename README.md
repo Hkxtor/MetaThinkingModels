@@ -1,6 +1,6 @@
-# ThinkingModels: AI-Powered Problem Solving
+# MetaThinkingModels: AI-Powered Problem Solving
 
-**A Python project that empowers LLMs with different thinking models for solving real-life problems through a two-phase query handling system.**
+**A Python project that empowers LLMs with different meta-thinking models for solving real-life problems through a two-phase query handling system.**
 
 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -15,7 +15,7 @@
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Project Structure](#project-structure)
-- [Thinking Models](#thinking-models)
+- [MetaThinking Models](#metathinking-models)
 - [Future Work](#future-work)
 - [License](#license)
 
@@ -23,11 +23,11 @@
 
 ## Overview
 
-ThinkingModels is a comprehensive framework that enhances the problem-solving capabilities of Large Language Models (LLMs) by integrating them with a curated collection of **140 thinking models**. The system uses a two-phase query handling process to provide structured, insightful solutions to complex problems.
+MetaThinkingModels is a framework that enhances the problem-solving capabilities of Large Language Models (LLMs) by integrating them with a curated collection of **140 thinking models**. The system uses a two-phase query handling process to provide structured, insightful solutions to complex problems.
 
 ### Key Components
 
-- **Core Engine**: A powerful backend that parses thinking models, integrates with LLM APIs, and processes queries in two phases.
+- **Core Engine**: A backend that parses thinking models, integrates with LLM APIs, and processes queries in two phases.
 - **CLI Interface**: A feature-rich command-line tool for interactive and batch query processing.
 - **Web Application**: A modern web interface with real-time updates for exploring models and solving problems.
 
@@ -192,10 +192,14 @@ ThinkingModels/
 
 ---
 
-## Thinking Models
+## MetaThinking Models
 
-The project includes a library of **140 thinking models**, including:
+The project includes a library of **140 thinking models**, 
 
+The thinking models are current broadly divided into 2 types: **explain** and **solve**. 
+The former is to help LLMs to explain a phenomenon, while the latter is to guide LLMs to solve a problem.
+
+The meta-thinking models include:
 - **Problem Solving**: SWOT Analysis, First Principles Thinking, 5 Whys
 - **Decision Making**: Pareto Principle, Eisenhower Matrix, Cost-Benefit Analysis
 - **Creativity**: Lateral Thinking, Brainstorming, SCAMPER
@@ -206,9 +210,25 @@ The project includes a library of **140 thinking models**, including:
 
 ## Future Work
 
-- **Enhanced Testing**: Implement comprehensive unit and integration tests.
-- **User Authentication**: Add user accounts for personalized query history.
-- **Advanced Model Management**: Allow users to create and manage their own thinking models.
+- **More models**: The 140 thinking models represent only a small portion of humanity's "metacognitive" system. Many similar core concepts, frameworks, and cognitive models exist across various industries and fields and should be incorporated into this database. We hope open-sourcing will enable the community to contribute and continuously enrich this database. For example, in software development, each programming language has many accumulated gems (best practices). When a Coding Agent is generating code, it can leverage gems from this database based on the chosen language to inform the Agent and guide it in writing high-quality code.
+
+- **More Metadata for models**: The model selection process is currently quite crude, allowing the LLM to directly choose from the models. We can add more metadata to the models, such as domain, problem type, keywords, etc., allowing the LLM to first categorize and narrow down the search scope before selecting a suitable model.
+
+- **A new paradigm, maybe**: This database can become a component for various Agents, and even be packaged as a cloud service API to support Agents in different fields. If thinking traces of this type reach a certain scale, we can consider using post-training to "internalize" these thinking models into the LLM.
+
+Eventually, the output of the reasoning model will change from the current:
+```
+<think>Thinking Trace ...</think>
+Final result is here
+```
+to:
+```
+<meta>Meta-thinking models to use ...</meta>
+<think>Thinking Trace ...</think>
+Final result is here
+```
+This way, the LLM will first determine the direction of thought (meta-model), then think according to that direction, and finally output the result to the user.
+
 
 ---
 
